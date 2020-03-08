@@ -24,7 +24,17 @@ A unifying framework for predictive inference.
 
 ---
 
-[Find more research work](/sample_page)
+[Find more research work](/research)
+
+---
+
+## Books & Notes
+
+[Computing Age Quantitative Finance Interviews [WIP]](/pdf/sample_presentation.pdf)
+
+My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from deriviative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
+
+<img src="images/book.png?raw=true"/>
 
 ---
 
@@ -46,15 +56,6 @@ A unifying framework for predictive inference.
 
 	Home-made IPython notebooks for a number of cool Python packages such as `tensorflow2`, `pyspark`, `featuretools`, `lifetimes`, and more.
 
----
-
-## Books & Notes
-
-[Computing Age Quantitative Finance Interviews [WIP]](/pdf/sample_presentation.pdf)
-
-My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from deriviative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
-
-<img src="images/book.png?raw=true"/>
 
 ---
 
