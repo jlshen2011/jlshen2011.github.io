@@ -14,6 +14,7 @@ A general statistical framework for making targeted inference and prediction.
 
 <img src="images/idea.png?raw=true" width="600"/>
 
+
 [Prediction with Confidence](/sample_page)
 
 A unifying framework for predictive inference.
@@ -35,19 +36,20 @@ My 200+ pages notes for quantitative finance interview topics, covering from cla
 <img src="images/book.png?raw=true">
 
 
+[The U.S. Treasury Market: Market, Trading and Modeling [WIP]](/pdf/sample_presentation.pdf)
+
+Notes on market microstructure, quantitative trading and modeling in the U.S. Treasury market. 
+
+<img src="images/tsy.png?raw=true">
+
+
 ---
 
 ## Featured Repositories
 
 
 - [Forecasting Stock Price Movement using SEC 8K Fillings](https://github.com/jlshen2011/nlp-stock-prediction)
-
-	-- a
-	-- a
-
 - [House Market Dashboard](https://github.com/jlshen2011/streamlit-home)
-
 - [Cool Python Packages](https://github.com/jlshen2011/cool-python-packages)
 
----
 
