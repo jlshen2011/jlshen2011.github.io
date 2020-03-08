@@ -14,7 +14,6 @@ A general statistical framework for making targeted inference and prediction.
 
 <img src="images/idea.png?raw=true" width="600"/>
 
----
 [Prediction with Confidence](/pdf/sample_presentation.pdf)
 
 A unifying framework for predictive inference.
@@ -22,12 +21,21 @@ A unifying framework for predictive inference.
 <img src="images/pred.png?raw=true" width="600"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+## Books & Notes
+
+[Computing Age Quantitative Finance Interviews [WIP]](/pdf/sample_presentation.pdf)
+
+My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from deriviative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
+
+<img src="images/book.png?raw=true" width="600"/>
+
 
 ---
 
-## Category Name 2
+## Books
+
+<img src="images/idea.png?raw=true" width="600"/>
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
