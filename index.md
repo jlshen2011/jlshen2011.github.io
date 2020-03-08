@@ -8,7 +8,7 @@ I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department
 
 ## Academic Research 
 
-[Individualized Fusion Learning (iFusion)](/sample_page)
+[Individualized Fusion Learning (iFusion)](/research)
 
 A general statistical framework for making targeted inference and prediction.
 
@@ -16,7 +16,7 @@ A general statistical framework for making targeted inference and prediction.
 
 ---
 
-[Prediction with Confidence](/sample_page)
+[Prediction with Confidence](/research)
 
 A unifying framework for predictive inference.
 

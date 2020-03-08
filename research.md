@@ -19,22 +19,18 @@ My acadmic research areas include confidence distribution, meta-analysis, statis
 
 ### Manuscripts
 
-<p> <strong>J Shen</strong> and C Li. Meta-analysis of correlation coefficients using confidence distributions.</p>
+- ** J Shen** and C Li. Meta-analysis of correlation coefficients using confidence distributions. 
+- **J Shen** and M Xie. Discrepant posterior phenomenon: what can we learn from it?
+- T Yan, **J Shen**, and Y Yang. Fast algorithm for grouping genotype combinations with application to multiple-locus association analyses.
+- **J Shen**, and J Shi. Forecasting soccer game results using ordinal logistic regression models and a gambling strategy.
 
-	      
-<p> <strong>J Shen</strong> and M Xie. Discrepant posterior phenomenon: what can we learn from it? In preparation.</p>
-
-<p>T Yan, <strong>J Shen</strong>, and Y Yang. Fast algorithm for grouping genotype combinations with application to multiple-locus association analyses.</p>
-
-<p><strong>J Shen</strong>, and J Shi. Forecasting soccer game results using ordinal logistic regression models and a gambling strategy.</p>
-```
 
 ### Referee for
 
-<p><em>Stat </em><a href="https://onlinelibrary.wiley.com/journal/20491573">[Link]</a><br></p>
-<p><em>Journal of the American Statistical Association </em><a href="https://www.tandfonline.com/toc/uasa20/current">[Link]</a><br></p>
-<p><em>Annals of Applied Statistics </em><a href="https://imstat.org/journals-and-publications/annals-of-applied-statistics">[Link]</a><br></p>
-<p><em>Statistical Methodology </em><a href="https://www.journals.elsevier.com/statistical-methodology">[Link]</a><br></p>
+- *Journal of the American Statistical Association*(https://www.tandfonline.com/toc/uasa20/current)
+- *Annals of Applied Statistics*(https://imstat.org/journals-and-publications/annals-of-applied-statistics)
+- *Statistical Methodology*(https://www.journals.elsevier.com/statistical-methodology)
+- *Stat*(https://onlinelibrary.wiley.com/journal/20491573")
 
 
 ### Talks
