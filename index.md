@@ -38,6 +38,14 @@ My 200+ pages notes for quantitative finance interview topics, covering from cla
 
 ---
 
+[The U.S. Treasury Market: Market, Trading and Modeling [WIP]](/pdf/sample_presentation.pdf)
+
+Notes on market microstructure, quantitative trading and modeling in the U.S. Treasury market. 
+
+<img src="images/tsy.gif?raw=true" width="600"/>
+
+---
+
 ## Featured Repositories
 
 
@@ -55,13 +63,3 @@ My 200+ pages notes for quantitative finance interview topics, covering from cla
 - [Cool Python Packages](https://github.com/jlshen2011/cool-python-packages)
 
 	Home-made IPython notebooks for a number of cool Python packages such as `tensorflow2`, `pyspark`, `featuretools`, `lifetimes`, and more.
-
-
----
-
-[The U.S. Treasury Market: Market, Trading and Modeling [WIP]](/pdf/sample_presentation.pdf)
-
-Notes on market microstructure, quantitative trading and modeling in the U.S. Treasury market. 
-
-<img src="images/tsy.gif?raw=true" width="600"/>
-
