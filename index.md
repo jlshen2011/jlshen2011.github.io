@@ -6,7 +6,7 @@ I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department
 
 ---
 
-## [Academic Research](/research)
+## Academic Research
 
 [Individualized Fusion Learning (iFusion)](/ifusion)
 
