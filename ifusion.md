@@ -11,15 +11,19 @@ This research proposes a new fusion learning approach, called “*i*Fusion,” f
 In essence, iFusion strategically “borrows strength” from relevant individuals to enhance the efficiency of the target individual inference while preserving its validity. The research focuses on the setting where each individual study has a number of observations but its inference can be further improved by incorporating additional information from similar studies that is referred to as its clique. Under the setting, iFusion is shown to achieve oracle property under suitable conditions. It is also shown to be flexible and robust in handling heterogeneity arising from diverse data sources. The development is ideally suited for goal-directed applications. Computationally, iFusion is parallel in nature and scales up easily for big data. An efficient scalable algorithm is provided for implementation. 
 
 
-<div align="center"><strong>*i*Fusion as a trade-off between bias and variance</strong></div>
+---
+
+### Figures
+
+<div align="center"><i>i</i>Fusion viewed from a bias-variance trade-off perspective</div>
 
 <img src="images/idea.png?raw=true" width="600"/>
 
-<div align="center"><strong>Why *i*Fusion?</strong></div>
+<div align="center">Why <i>i</i>Fusion</div>
 
 <img src="images/pros.png?raw=true" width="600"/>
 
-<div align="center"><strong>How *i*Fusion works versus classical fusion learning/meta analysis</strong></div>
+<div align="center">How <i>i</i>Fusion works versus classical meta analysis</div>
 
 <img src="images/flow.png?raw=true" width="600"/>
 
