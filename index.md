@@ -1,4 +1,4 @@
-### Welcome
+## Welcome
 
 I am a data scientist at Walmart eCommerce focusing on customer science. Previous I worked in the financial industry where I developed quantitative algorithms for fixed income trading.
   
@@ -7,13 +7,11 @@ I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department
 
 ---
 
-### Academic Research 
+## Academic Research 
 
 [Individualized Fusion Learning (iFusion)](/sample_page)
 
-<img src="images/idea.png?raw=true" width="600" height="340"/>
-
-<img src="images/pros.png?raw=true" width="600" height="340"/>
+<img src="images/idea.png?raw=true" width="600"/>
 
 ---
 [Prediction with Confidence](/pdf/sample_presentation.pdf)
@@ -25,7 +23,7 @@ I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department
 
 ---
 
-### Category Name 2
+## Category Name 2
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
