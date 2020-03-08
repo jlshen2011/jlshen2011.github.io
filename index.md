@@ -10,8 +10,8 @@ I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department
 ### Academic Research 
 
 [Individualized Fusion Learning (iFusion)](/sample_page)
-<img src="images/idea.pdf?raw=true"/>
-<img src="images/pros.pdf?raw=true"/>
+<img src="images/idea.png?raw=true"/>
+<img src="images/pros.png?raw=true"/>
 
 ---
 [Prediction with Confidence](/pdf/sample_presentation.pdf)
