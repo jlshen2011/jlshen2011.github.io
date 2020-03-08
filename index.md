@@ -1,22 +1,15 @@
 ### Welcome
 
-  I am a data scientist at Walmart eCommerce focusing on customer science. Previous I worked in the financial industry where I developed quantitative algorithms for fixed income trading.
-  <br><br>
-  I received my PhD in Statistics from Rutgers University, New Brunswickand and BSc in Statistics from University of Science and Technology of China.
-
-I currently work in an investment bank in New York. I develop AI-equipped trading algorithms and applications in the fixed income space. 
+I am a data scientist at Walmart eCommerce focusing on customer science. Previous I worked in the financial industry where I developed quantitative algorithms for fixed income trading.
+  
 	      
-I obtained my PhD degree in statistics from <a href="http://stat.rutgers.edu/">
-	Department of Statistics</a> at (http://www.rutgers.edu/)Rutgers University, New Brunswick</a>
-	(advisors Profs. <a href="http://www.stat.rutgers.edu/home/mxie/">Minge Xie</a> and 
-	<a href="http://www.stat.rutgers.edu/joomlatools-files/docman-files/Liu-CV-05-2015.pdf">Regina Y. Liu</a>)
-	and Bacholer's degree in statistics as well from <a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a>.<
+I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department of Statistics</a> at (http://www.rutgers.edu/)Rutgers University, New Brunswick</a> (advisors Profs. <a href="http://www.stat.rutgers.edu/home/mxie/">Minge Xie</a> and <a href="http://www.stat.rutgers.edu/joomlatools-files/docman-files/Liu-CV-05-2015.pdf">Regina Y. Liu</a>) and Bacholer's degree in statistics as well from <a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a>.
 
 ---
 
-### Category Name 1 
+### Academic Research 
 
-[Project 1 Title](/sample_page)
+[Individualized Fusion Learning (iFusion)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

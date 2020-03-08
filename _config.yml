@@ -2,11 +2,11 @@ title: Jieli Shen # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-  <br><br>
-  <a href="https://www.linkedin.com/in/jieli-shen-phd-cfa-frm-02a96758/">View My LinkedIn Profile</a> 
+<br><br>
+<a href="https://www.linkedin.com/in/jieli-shen-phd-cfa-frm-02a96758/">View My LinkedIn Profile</a> 
 
-  
-  <a href="https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en/">View Google scholar Profile</a> 
+<br><br>  
+<a href="https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en/">View Google scholar Profile</a> 
 
 
 theme: jekyll-theme-minimal
