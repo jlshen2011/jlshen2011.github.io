@@ -33,14 +33,14 @@ A unifying framework for predictive inference.
 
 My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from deriviative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
 
-<img src="images/book.png?raw=true">
+<img src="images/book.png?raw=true"/>
 
 
 [The U.S. Treasury Market: Market, Trading and Modeling [WIP]](/pdf/sample_presentation.pdf)
 
 Notes on market microstructure, quantitative trading and modeling in the U.S. Treasury market. 
 
-<img src="images/tsy.jpg?raw=true">
+<img src="images/tsy.gif?raw=true" width="600"/>
 
 
 ---
