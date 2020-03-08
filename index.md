@@ -14,6 +14,7 @@ A general statistical framework for making targeted inference and prediction.
 
 <img src="images/idea.png?raw=true" width="600"/>
 
+---
 
 [Prediction with Confidence](/sample_page)
 
@@ -21,9 +22,9 @@ A unifying framework for predictive inference.
 
 <img src="images/pred.png?raw=true" width="600"/>
 
+---
 
-[Find more here](/sample_pag)
-
+[Find more here](/sample_page)
 
 ---
 
@@ -35,13 +36,13 @@ My 200+ pages notes for quantitative finance interview topics, covering from cla
 
 <img src="images/book.png?raw=true"/>
 
+---
 
 [The U.S. Treasury Market: Market, Trading and Modeling [WIP]](/pdf/sample_presentation.pdf)
 
 Notes on market microstructure, quantitative trading and modeling in the U.S. Treasury market. 
 
 <img src="images/tsy.gif?raw=true" width="600"/>
-
 
 ---
 
