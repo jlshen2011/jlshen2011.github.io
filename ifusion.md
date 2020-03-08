@@ -1,35 +1,23 @@
-## Academic Research
+## Individualized Fusion Learning (*i*Fusion)
 
-My acadmic research areas include confidence distribution, meta-analysis, statistical fusion learning, predictive inference, and Bayesian data analysis. Other research topics include high dimensional data analysis, sports statistics, and graphical modeling.
-
-### Publications
-- **J Shen**, M Xie, and R Liu. (2019). [*i*Fusion: Individualized Fusion Learning](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, to appear.
-- **J Shen**, M Xie, and R Liu. (2019). [Prediction with confidence - A general framework for predictive inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375817301696). *Journal of Statistical Planing and Inference*, **195**: 126-140.
-- V Vovk, **J Shen**, V Manokhin, M Xie, and R Liu. (2019). [Nonparametric predictive distributions based on conformal prediction](https://link.springer.com/article/10.1007/s10994-018-5755-8). *Machine Learning*, **108**: 445-474. 
-
-### Manuscripts
-
-- **J Shen** and C Li. Meta-analysis of correlation coefficients using confidence distributions. 
-- **J Shen** and M Xie. Discrepant posterior phenomenon: what can we learn from it?
-- T Yan, **J Shen**, and Y Yang. Fast algorithm for grouping genotype combinations with application to multiple-locus association analyses.
-- **J Shen**, and J Shi. Forecasting soccer game results using ordinal logistic regression models and a gambling strategy.
+Inferences from different data sources can often be fused together, a process referred to as “fusion learning,” to yield more powerful findings than those from individual data sources alone. Effective fusion learning approaches are in growing demand as increasing number of data sources have become easily available in this big data era. This article proposes a new fusion learning approach, called “*i*Fusion,” for drawing efficient individualized inference by fusing learnings from relevant data sources. Specifically, iFusion (i) summarizes inferences from individual data sources as individual confidence distributions (CDs); (ii) forms a clique of individuals that bear relevance to the target individual and then combines the CDs from those relevant individuals; and, finally, (iii) draws inference for the target individual from the combined CD. In essence, iFusion strategically “borrows strength” from relevant individuals to enhance the efficiency of the target individual inference while preserving its validity. This article focuses on the setting where each individual study has a number of observations but its inference can be further improved by incorporating additional information from similar studies that is referred to as its clique. Under the setting, iFusion is shown to achieve oracle property under suitable conditions. It is also shown to be flexible and robust in handling heterogeneity arising from diverse data sources. The development is ideally suited for goal-directed applications. Computationally, iFusion is parallel in nature and scales up easily for big data. An efficient scalable algorithm is provided for implementation. Simulation studies and a real application in financial forecasting are presented. In effect, this article covers methodology, theory, computation, and application for individualized inference by iFusion.
 
 
-### Referee for
+*i*Fusion as a trade-off between bias and variance
 
-- [*Journal of the American Statistical Association*](https://www.tandfonline.com/toc/uasa20/current)
-- [*Annals of Applied Statistics*](https://imstat.org/journals-and-publications/annals-of-applied-statistics)
-- [*Statistical Methodology*](https://www.journals.elsevier.com/statistical-methodology)
-- [*Stat*](https://onlinelibrary.wiley.com/journal/20491573")
+<img src="images/idea.png?raw=true" width="600"/>
+
+Why *i*Fusion?
+
+<img src="images/pros.png?raw=true" width="600"/>
+
+*i*Fusion vs classical fusion learning/meta analysis
+
+<img src="images/flow.png?raw=true" width="600"/>
 
 
-### Talks
+---
 
-- 2017 Joint Statistical Meetings, Baltimore, MD, 2017.
-- 2016 Joint Statistical Meetings, Chicago, IL, 2016.
-- Workshop on Fusion Learning, BFF Inferences, and Statistical Foundations: Third BFF (Bayesian, Frequentist & Fiducial) Workshop, Piscataway, NJ, 2016.
-- 2016 CCICADA Retreat, Piscataway, NJ, 2016.
-- 2015 INFORMS Annual Meeting, Philadelphia, PA, 2015.
-- 2015 Joint Statistical Meetings, Seattle, WA, 2015.
-- Invited seminar speaker, School of Mathematics and Statistics, Central China Normal University,
-Wuhan, China, 2015.
+### Links
+- [Full article]- **J Shen**, M Xie, and R Liu. (2019). [*i*Fusion: Individualized Fusion Learning](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, to appear.
+- [Review article on confidence distribution](https://www.stat.rutgers.edu/home/mxie/RCPapers/insr.12000.pdf): M Xie, K Singh. (2013). Confidence distribution, the frequentist distribution estimator of a parameter: A review. *International Statistical Review*, **81**, 3–39.
