@@ -40,7 +40,7 @@ My 200+ pages notes for quantitative finance interview topics, covering from cla
 
 Notes on market microstructure, quantitative trading and modeling in the U.S. Treasury market. 
 
-<img src="images/tsy.png?raw=true">
+<img src="images/tsy.jpg?raw=true">
 
 
 ---
