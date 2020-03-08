@@ -16,7 +16,10 @@ A general statistical framework for making targeted inference and prediction.
 
 ---
 [Prediction with Confidence](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+A unifying framework for predictive inference.
+
+<img src="images/pred.png?raw=true" width="600"/>
 
 ---
 [Project 3 Title](http://example.com/)
