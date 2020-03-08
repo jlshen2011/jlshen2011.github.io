@@ -8,7 +8,7 @@ I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department
 
 ## [Academic Research](/research)
 
-[Individualized Fusion Learning (iFusion)](/research)
+[Individualized Fusion Learning (iFusion)](/ifusion)
 
 A general statistical framework for making targeted inference and prediction.
 
@@ -16,7 +16,7 @@ A general statistical framework for making targeted inference and prediction.
 
 ---
 
-[Prediction with Confidence](/research)
+[Prediction with Confidence](/pred)
 
 A unifying framework for predictive inference.
 
@@ -30,7 +30,7 @@ A unifying framework for predictive inference.
 
 ## Books & Notes
 
-[Computing Age Quantitative Finance Interviews [WIP]](/pdf/sample_presentation.pdf)
+Computing Age Quantitative Finance Interviews (WIP)
 
 My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from deriviative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
 
@@ -38,7 +38,7 @@ My 200+ pages notes for quantitative finance interview topics, covering from cla
 
 ---
 
-[The U.S. Treasury Market: Market, Trading and Modeling [WIP]](/pdf/sample_presentation.pdf)
+The U.S. Treasury Market: Market, Trading and Modeling (WIP)
 
 Notes on market microstructure, quantitative trading and modeling in the U.S. Treasury market. 
 
