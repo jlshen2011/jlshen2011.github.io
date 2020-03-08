@@ -56,9 +56,9 @@ Notes on market microstructure, quantitative trading and modeling in the U.S. Tr
 - [Your Robot Realtor](https://github.com/jlshen2011/streamlit-home)
 	
 	A featured app that provides:
-		* Elegant visualization of housing market trend at neighborhood level and 
-		* Powerful calculator for your monthly payment when buying a home and comparison to renting
+		- Elegant visualization of housing market trend at neighborhood level and 
+		- Powerful calculator for your monthly payment when buying a home and comparison to renting
 
 - [Cool Python Packages](https://github.com/jlshen2011/cool-python-packages)
 
-	Home-made IPython notebooks for a number of cool Python packages such as `tensorflow2`, `pyspark`, `featuretools`, `lifetimes`, and more!
+	Home-made IPython notebooks for a number of cool Python packages such as `tensorflow2`, `pyspark`, `featuretools`, `lifetimes`, and more.
