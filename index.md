@@ -11,9 +11,9 @@ I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department
 
 [Individualized Fusion Learning (iFusion)](/sample_page)
 
-<img src="images/idea.png?raw=true" width="600" height="300"/>
+<img src="images/idea.png?raw=true" width="600" height="340"/>
 
-<img src="images/pros.png?raw=true" width="600" height="300"/>
+<img src="images/pros.png?raw=true" width="600" height="340"/>
 
 ---
 [Prediction with Confidence](/pdf/sample_presentation.pdf)
