@@ -24,7 +24,27 @@ A unifying framework for predictive inference.
 
 ---
 
-[Find more here](/sample_page)
+[Find more research work](/sample_page)
+
+---
+
+## Featured Repositories
+
+
+- [Forecasting Stock Price Movement using SEC 8K Fillings](https://github.com/jlshen2011/nlp-stock-prediction)
+
+	When NLP and deep learning meets finance!
+
+- [Your Robot Realtor](https://github.com/jlshen2011/streamlit-home)
+	
+	A featured app powered by `streamlit` that provides:
+	
+	- Elegant visualization of housing market trend at neighborhood level and 
+	- Powerful calculator for your monthly payment when buying a home and comparison to renting
+
+- [Cool Python Packages](https://github.com/jlshen2011/cool-python-packages)
+
+	Home-made IPython notebooks for a number of cool Python packages such as `tensorflow2`, `pyspark`, `featuretools`, `lifetimes`, and more.
 
 ---
 
@@ -44,21 +64,3 @@ Notes on market microstructure, quantitative trading and modeling in the U.S. Tr
 
 <img src="images/tsy.gif?raw=true" width="600"/>
 
----
-
-## Featured Repositories
-
-
-- [Forecasting Stock Price Movement using SEC 8K Fillings](https://github.com/jlshen2011/nlp-stock-prediction)
-
-	When NLP and deep learning meets finance!
-
-- [Your Robot Realtor](https://github.com/jlshen2011/streamlit-home)
-	
-	A featured app that provides:
-		- Elegant visualization of housing market trend at neighborhood level and 
-		- Powerful calculator for your monthly payment when buying a home and comparison to renting
-
-- [Cool Python Packages](https://github.com/jlshen2011/cool-python-packages)
-
-	Home-made IPython notebooks for a number of cool Python packages such as `tensorflow2`, `pyspark`, `featuretools`, `lifetimes`, and more.
