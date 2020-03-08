@@ -51,9 +51,9 @@ Notes on market microstructure, quantitative trading and modeling in the U.S. Tr
 
 - [Forecasting Stock Price Movement using SEC 8K Fillings](https://github.com/jlshen2011/nlp-stock-prediction)
 
-	When NLP and deep learning meets finance!
+	When NLP and deep learning meet finance!
 
-- [Your Robot Realtor](https://github.com/jlshen2011/streamlit-home)
+- [Robot Realtor](https://github.com/jlshen2011/streamlit-home)
 	
 	A featured app powered by `streamlit` that provides:
 	
