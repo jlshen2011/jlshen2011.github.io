@@ -14,11 +14,15 @@ A general statistical framework for making targeted inference and prediction.
 
 <img src="images/idea.png?raw=true" width="600"/>
 
-[Prediction with Confidence](/pdf/sample_presentation.pdf)
+[Prediction with Confidence](/sample_page)
 
 A unifying framework for predictive inference.
 
 <img src="images/pred.png?raw=true" width="600"/>
+
+
+[Find more here](/sample_pag)
+
 
 ---
 
@@ -28,20 +32,22 @@ A unifying framework for predictive inference.
 
 My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from deriviative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
 
-<img src="images/book.png?raw=true" width="600"/>
+<img src="images/book.png?raw=true">
 
 
 ---
 
-## Books
+## Featured Repositories
 
-<img src="images/idea.png?raw=true" width="600"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Forecasting Stock Price Movement using SEC 8K Fillings](https://github.com/jlshen2011/nlp-stock-prediction)
+
+	-- a
+	-- a
+
+- [House Market Dashboard](https://github.com/jlshen2011/streamlit-home)
+
+- [Cool Python Packages](https://github.com/jlshen2011/cool-python-packages)
 
 ---
 
