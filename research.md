@@ -3,19 +3,9 @@
 My acadmic research areas include confidence distribution, meta-analysis, statistical fusion learning, predictive inference, and Bayesian data analysis. Other research topics include high dimensional data analysis, sports statistics, and graphical modeling.
 
 ### Publications
-
-<p><strong>J Shen</strong>, M Xie, and R Liu. (2019). iFusion: Individualized Fusion Learning. 
-  <em>Journal of the American Statistical Association, </em>to appear. <a href="https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U">[Link]</a><br></p>
-
-
-<p><strong>J Shen</strong>, M Xie, and R Liu. (2019). Prediction with confidence-A general framework for predictive inference. 
-	<em>Journal of Statistical Planing and Inference, </em>195: 126-140. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0378375817301696">[Link]</a><br></p>
-
-
-<p>V Vovk, <strong>J Shen</strong>, V Manokhin, M Xie, and R Liu. (2019). Nonparametric predictive distributions based on conformal prediction. 
-	<em>Machine Learning, </em> 108: 445-474. 
-<a href="https://link.springer.com/article/10.1007/s10994-018-5755-8">[Link]</a><br></p>
-        <p></p>
+- **J Shen**, M Xie, and R Liu. (2019). iFusion: Individualized Fusion Learning(https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, https://doi.org/10.1080/01621459.2019.1672557.
+- **J Shen**, M Xie, and R Liu. (2019). Prediction with confidence - A general framework for predictive inference(https://www.sciencedirect.com/science/article/abs/pii/S0378375817301696). *Journal of Statistical Planing and Inference*, **195**: 126-140.
+- V Vovk, **J Shen**, V Manokhin, M Xie, and R Liu. (2019). Nonparametric predictive distributions based on conformal prediction(https://link.springer.com/article/10.1007/s10994-018-5755-8). *Machine Learning*, **108**: 445-474. 
 
 ### Manuscripts
 
