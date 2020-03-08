@@ -3,17 +3,18 @@
 I am a data scientist at Walmart eCommerce focusing on customer science. Previous I worked in the financial industry where I developed quantitative algorithms for fixed income trading.
   
 	      
-I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department of Statistics</a> at (http://www.rutgers.edu/)Rutgers University, New Brunswick</a> (advisors Profs. <a href="http://www.stat.rutgers.edu/home/mxie/">Minge Xie</a> and <a href="http://www.stat.rutgers.edu/joomlatools-files/docman-files/Liu-CV-05-2015.pdf">Regina Y. Liu</a>) and Bacholer's degree in statistics as well from <a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a>.
+I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department of Statistics</a> at Rutgers University, New Brunswick</a> (advisors Profs. <a href="http://www.stat.rutgers.edu/home/mxie/">Minge Xie</a> and <a href="http://www.stat.rutgers.edu/joomlatools-files/docman-files/Liu-CV-05-2015.pdf">Regina Y. Liu</a>) and Bacholer's degree in statistics as well from <a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a>.
 
 ---
 
 ### Academic Research 
 
 [Individualized Fusion Learning (iFusion)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/idea.pdf?raw=true"/>
+<img src="images/pros.pdf?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Prediction with Confidence](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
