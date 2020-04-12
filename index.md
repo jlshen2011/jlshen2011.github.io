@@ -38,7 +38,7 @@ My 200+ pages notes for quantitative finance interview topics, covering from cla
 
 ---
 
-[The U.S. Treasury Market: Market, Trading and Modeling (WIP)](https://github.com/jlshen2011/us-treasury-research)
+[The U.S. Treasury Market: Market, Trading and Modeling (WIP)]()
 
 Notes on market microstructure, quantitative trading and modeling in the U.S. Treasury market. 
 
