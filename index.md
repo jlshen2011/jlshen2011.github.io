@@ -60,8 +60,8 @@ A curated list of 21st century literatures for a variety of topics on U.S. Treas
 	
 A featured app powered by `streamlit` that provides:
 	
-	- Elegant visualization of housing market trend at neighborhood level and 
-	- Powerful calculator for your monthly payment when buying a home and comparison to renting
+- Elegant visualization of housing market trend at neighborhood level and 
+- Powerful calculator for your monthly payment when buying a home and comparison to renting
 
 <img src="images/market.png?raw=true" width="600"/>
 
@@ -69,7 +69,7 @@ A featured app powered by `streamlit` that provides:
 
 [cool-python-packages](https://github.com/jlshen2011/cool-python-packages)
 
-My own gallery of IPython notebooks for a (growing) number of cool Python packages: `causalml`, `featuretools`, `lifetimes`,`pyspark`, `tensorflow2`, `tensorflow_probability`, and more.
+My own gallery of IPython notebooks for a (growing) number of cool Python packages: causalml, featuretools, lifetimes, pyspark, tensorflow, tensorflow_probability, and more.
 
 ---
 
