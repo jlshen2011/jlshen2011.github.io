@@ -32,7 +32,7 @@ A unifying framework for predictive inference.
 
 [Computing Age Quantitative Finance Interviews (WIP)]()
 
-My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from deriviative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
+My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from derivative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
 
 <img src="images/book.png?raw=true"/>
 
@@ -75,4 +75,4 @@ My own gallery of IPython notebooks for a (growing) number of cool Python packag
 
 [marketing-data-science](https://github.com/jlshen2011/marketing-data-science)
 
-A collection of data science applications in marketing, customer and product analytics. 
+A collection of data science applications in marketing, customer and product analytics.
