@@ -38,33 +38,41 @@ My 200+ pages notes for quantitative finance interview topics, covering from cla
 
 ---
 
-[The U.S. Treasury Market: Market, Trading and Modeling (WIP)]()
+## Featured Repositories
 
-Notes on market microstructure, quantitative trading and modeling in the U.S. Treasury market. 
+
+[nlp-stock-prediction](https://github.com/jlshen2011/nlp-stock-prediction)
+
+Forecasting Stock Price Movement using SEC 8K Fillings - when NLP and deep learning meet finance!
+
+---
+
+[us-treasury-literature](https://github.com/jlshen2011/us-treasury-literature)
+
+A curated list of 21st century literatures for a variety of topics on U.S. Treasury quantitative research: market microstructure, quantitative trading, risk management, high frequency trading, and more!
 
 <img src="images/tsy.gif?raw=true" width="600"/>
 
 ---
 
-## Featured Repositories
+[streamlit-home](https://github.com/jlshen2011/streamlit-home)
 
-
-- [Forecasting Stock Price Movement using SEC 8K Fillings](https://github.com/jlshen2011/nlp-stock-prediction)
-
-	When NLP and deep learning meet finance!
-
-- [Robot Realtor](https://github.com/jlshen2011/streamlit-home)
 	
-	A featured app powered by `streamlit` that provides:
+A featured app powered by `streamlit` that provides:
 	
 	- Elegant visualization of housing market trend at neighborhood level and 
 	- Powerful calculator for your monthly payment when buying a home and comparison to renting
 
-- [Cool Python Packages](https://github.com/jlshen2011/cool-python-packages)
+<img src="images/market.png?raw=true" width="600"/>
 
-	Home-made IPython notebooks for a number of cool Python packages such as `tensorflow2`, `pyspark`, `featuretools`, `lifetimes`, and more.
+---
 
-- [Data Science in Marketing](https://github.com/jlshen2011/marketing-data-science)
+[cool-python-packages](https://github.com/jlshen2011/cool-python-packages)
 
-	A collection of data science applications in marketing, customer and product analytics.
+My own gallery of IPython notebooks for a (growing) number of cool Python packages: `causalml`, `featuretools`, `lifetimes`,`pyspark`, `tensorflow2`, `tensorflow_probability`, and more.
 
+---
+
+[marketing-data-science](https://github.com/jlshen2011/marketing-data-science)
+
+A collection of data science applications in marketing, customer and product analytics. 
