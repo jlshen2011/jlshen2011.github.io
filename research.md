@@ -35,8 +35,8 @@ My acadmic research areas include [confidence distribution](https://en.wikipedia
 
 ### Presentations
 
-- [Prediction with confidence: A General framework for prediction](https://ww2.amstat.org/meetings/jsm/2016/onlineprogram/AbstractDetails.cfm?abstractid=318745). (2016). *2016 Joint Statistical Meetings (JSM)*, Chicago, IL.
-- [Individualized fusion (iFusion) learning: A confidence distribution approach](https://ccicada.org/special-event-2016-ccicada-retreat-at-rutgers-university-abstracts/#shen). (2016). *2016 CCICADA Retreat at Rutgers University*, Piscataway, NJ.
-- iFusion: Individualized fusion learning. (2016). *Fusion Learning & BFF (Bayesian, Frequentist and Fiducial) Inferences and Statistical Foundations*, Piscataway, NJ.
-- [Confidence distribution (CD) and unifying concept for statistical inference](http://maths.ccnu.edu.cn/info/1045/3752.htm). (2016). *Invited Talk at School of Mathematics and Statistics, Central China Normal University*, Wuhan, China.
-- Fusion learning by individual-to-clique (FLIC): Efficient approach to enhancing individual inference. (2015). *2015 INFORMS Annual Meeting*, Philadelphia, PA.
+- [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2016/onlineprogram/AbstractDetails.cfm?abstractid=318745), Chicago, IL, 2016.
+- [CCICADA Retreat at Rutgers University](https://ccicada.org/special-event-2016-ccicada-retreat-at-rutgers-university-abstracts/#shen), Piscataway, NJ, 2016.
+- [DIMACS/Statistics Workshop on Fusion Learning, BFF Inferences, and Statistical Foundations: Third BFF (Bayesian, Frequentist & Fiducial) Workshop](http://dimacs.rutgers.edu/archive/Workshops/FusionLearning/announcement.html), Piscataway, NJ, 2016.
+- [Invited Talk at School of Mathematics and Statistics, Central China Normal University](http://maths.ccnu.edu.cn/info/1045/3752.htm), Wuhan, China, 2016.
+- [INFORMS Annual Meeting](https://www.informs.org/Resource-Center/Video-Library/INFORMS-Meetings-Videos/INFORMS-Annual-Meeting-Presentations/2015-INFORMS-Annual-Meeting-Philadelphia), Philadelphia, PA, 2015.
