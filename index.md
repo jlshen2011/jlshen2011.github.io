@@ -34,16 +34,29 @@ A unifying framework for uncertainty quantification in prediction.
 
 ---
 
-[us-treasury-literature](https://github.com/jlshen2011/us-treasury-literature)
+[Predictive Customer Lifetime Value]()
+
+
+---
+
+[Machine Learning for Treasury Market Prediction]()
 
 A curated list of 21st century literatures for a variety of topics on U.S. Treasury quantitative research: market microstructure, quantitative trading, risk management, high frequency trading, and more!
 
 <img src="images/tsy.gif?raw=true" width="600"/>
 
+---
+
 ## Miscellaneous
 
-[Computing Age Quantitative Finance Interviews (WIP)]()
+---
+
+[Computing Age Quantitative Finance Interviews]()
 
 My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from derivative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
 
 <img src="images/book.png?raw=true"/>
+
+[Crypto Trading Bot]()
+
+
