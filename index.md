@@ -1,6 +1,8 @@
 ## Welcome
 
-I am a data scientist at Walmart eCommerce focusing on customer science. Previous I worked in the financial industry where I developed quantitative algorithms for fixed income trading.
+I am a machine learning engineer at Facebook working on recommendation systems for <a href="https://about.fb.com/news/2021/09/launching-reels-on-facebook-us/">Facebook Reels</a>). 
+
+Before joining Facebook, I led a data science at Walmart building machine learning solutions to understanding and forecasting customer behaviors. Prior to Walmar, I worked as a quantiative strategies and modelder at Deutsche Bank, Goldman Sachs, and J.P.Morgan. 
   	      
 I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department of Statistics</a> at Rutgers University, New Brunswick (advisors Profs. <a href="http://www.stat.rutgers.edu/home/mxie/">Minge Xie</a> and <a href="http://www.stat.rutgers.edu/joomlatools-files/docman-files/Liu-CV-05-2015.pdf">Regina Y. Liu</a>) and BSc in Statistics from <a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a>.
 
@@ -10,7 +12,7 @@ I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department
 
 [Individualized Fusion Learning (iFusion)](/ifusion2)
 
-A general statistical framework for making targeted inference and prediction.
+A general statistical framework for individualized inference and prediction.
 
 <img src="images/idea.png?raw=true" width="600"/>
 
@@ -24,7 +26,7 @@ A unifying framework for predictive inference.
 
 ---
 
-[Find more research work](/research)
+[Find more academic research work](/research)
 
 ---
 
