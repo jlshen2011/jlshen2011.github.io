@@ -22,11 +22,11 @@ A general statistical framework for individualized inference and prediction.
 
 A unifying framework for uncertainty quantification in prediction.
 
-<img src="images/pred2.jpeg?raw=true" width="600"/>
+<img src="images/pred.jpeg?raw=true" width="600"/>
 
 ---
 
-[Find more academic research work](/research)
+[Find out more of my academic research work here](/research)
 
 ---
 
@@ -36,16 +36,16 @@ A unifying framework for uncertainty quantification in prediction.
 
 [Predictive Customer Lifetime Value]()
 
-Customer lifetime value measures the worth of a customer to a firm. It is the net present value of future cash flow from the customer’s relationship to the firm, and has been studied in academia for decades and has been gaining growing interest and routinely used by firms to develop customer-centric strategies. Check the link for my survey paper on morden approache in predicting customer lifetime values. 
+A study of modern approaches to predicting customer lifetime value and how to use it to develop customer-centric strategies. To be available at arXiv.org soon.
 
 <img src="images/clv.jpeg?raw=true" width="600"/>
-
 
 ---
 
 [Machine Learning for Treasury Market Prediction]()
 
-A curated list of 21st century literatures for a variety of topics on U.S. Treasury quantitative research: market microstructure, quantitative trading, risk management, high frequency trading, and more!
+A comprehensive survey on applying machine learning techniques for predicting sovereign debt market movement, based upon real-world experience and learnings on the trading floor. To be available at arXiv.org soon.
+
 
 <img src="images/tsy.gif?raw=true" width="600"/>
 
@@ -55,11 +55,11 @@ A curated list of 21st century literatures for a variety of topics on U.S. Treas
 
 ---
 
-[Computing Age Quantitative Finance Interviews]()
+[Data Science Interview Cookbook]()
 
-My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from derivative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
+My e-book for preparing data science and machine learning interviews, from classical statistical inference to state-of-art deep learning, from Python programming to cloud computing, and more! Coming soon.
 
-<img src="images/book.png?raw=true"/>
+<img src="images/book2.png?raw=true"/>
 
 ---
 
