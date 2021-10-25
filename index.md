@@ -59,8 +59,6 @@ A comprehensive survey on applying machine learning techniques for predicting so
 
 My e-book for preparing data science and machine learning interviews, from classical statistical inference to state-of-art deep learning, from Python programming to cloud computing, and more! Coming soon.
 
-<img src="images/book2.png?raw=true"/>
-
 ---
 
 [Crypto Trading Bot]()
