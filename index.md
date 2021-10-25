@@ -22,7 +22,7 @@ A general statistical framework for individualized inference and prediction.
 
 A unifying framework for uncertainty quantification in prediction.
 
-<img src="images/pred.jpeg?raw=true" width="600"/>
+<img src="images/pred.png?raw=true" width="600"/>
 
 ---
 
