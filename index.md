@@ -20,9 +20,9 @@ A general statistical framework for individualized inference and prediction.
 
 [Prediction with Confidence](/pred)
 
-A unifying framework for predictive inference.
+A unifying framework for uncertainty quantification in prediction.
 
-<img src="images/pred.png?raw=true" width="600"/>
+<img src="images/pred2.jpeg?raw=true" width="600"/>
 
 ---
 
