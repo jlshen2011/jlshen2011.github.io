@@ -1,11 +1,15 @@
 ## Academic Research
 
-My acadmic research areas include confidence distribution, meta-analysis, statistical fusion learning, predictive inference, and Bayesian data analysis. Other research topics include high dimensional data analysis, sports statistics, and graphical modeling.
+[Back to home page](/index)
+
+
+My acadmic research areas include [confidence distribution](https://en.wikipedia.org/wiki/Confidence_distribution), [meta-analysis](https://en.wikipedia.org/wiki/Meta-analysis), statistical fusion learning, predictive inference, and Bayesian data analysis. Other research topics include high dimensional data analysis, sports statistics, and graphical modeling.
 
 ---
 
 ### Publications
-- **J Shen**, M Xie, and R Liu. (2019). [*i*Fusion: Individualized Fusion Learning](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, to appear.
+- H Gu, **J Shen**, F Yuan, F Han, C Liu, Y Zhang, M Ali, W Guo, J Ren, L Zhang, S Wu, and G Li. (2021). [Low-energy electron-driven observation of nanometer-sized Laves phases at alloy surfaces enabling statistical characterization with high precision and efficiency](https://link.springer.com/article/10.1007/s13204-021-01796-6). *Applied Nanoscience*, **11**, 1549-1564.
+- **J Shen**, M Xie, and R Liu. (2020). [*i*Fusion: Individualized fusion learning](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, **115**, 1251-1267.
 - **J Shen**, M Xie, and R Liu. (2019). [Prediction with confidence - A general framework for predictive inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375817301696). *Journal of Statistical Planing and Inference*, **195**: 126-140.
 - V Vovk, **J Shen**, V Manokhin, M Xie, and R Liu. (2019). [Nonparametric predictive distributions based on conformal prediction](https://link.springer.com/article/10.1007/s10994-018-5755-8). *Machine Learning*, **108**: 445-474. 
 
@@ -29,13 +33,10 @@ My acadmic research areas include confidence distribution, meta-analysis, statis
 
 ---
 
-### Talks
+### Presentations
 
-- 2017 Joint Statistical Meetings, Baltimore, MD, 2017.
-- 2016 Joint Statistical Meetings, Chicago, IL, 2016.
-- Workshop on Fusion Learning, BFF Inferences, and Statistical Foundations: Third BFF (Bayesian, Frequentist & Fiducial) Workshop, Piscataway, NJ, 2016.
-- 2016 CCICADA Retreat, Piscataway, NJ, 2016.
-- 2015 INFORMS Annual Meeting, Philadelphia, PA, 2015.
-- 2015 Joint Statistical Meetings, Seattle, WA, 2015.
-- Invited seminar speaker, School of Mathematics and Statistics, Central China Normal University,
-Wuhan, China, 2015.
+* 2016. Prediction with confidence: A General framework for prediction. *Joint Statistical Meeting (JSM)*, Chicago, IL.
+* 2016. Individualized fusion (iFusion) learning: A confidence distribution approach. *2016 CCICADA Retreat at Rutgers University*, Piscataway, NJ.
+* 2016. iFusion: Individualized fusion learning. *Fusion Learning & BFF (Bayesian, Frequentist and Fiducial) Inferences and Statistical Foundations*, Piscataway, NJ.
+* 2016. Confidence distribution (CD) and unifying concept for statistical inference. *Invited Talk at School of Mathematics and Statistics, Central China Normal University*, Wuhan, China.
+* 2015. Fusion learning by individual-to-clique (FLIC): Efficient approach to enhancing individual inference. *2015 Institute for Operations Research and the Management Sciences (INFORMS) Annual Meeting*, Philadelphia, PA.
