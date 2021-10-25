@@ -2,7 +2,7 @@
 
 I am a machine learning engineer at Facebook working on recommendation systems for <a href="https://about.fb.com/news/2021/09/launching-reels-on-facebook-us/">Facebook Reels</a>. 
 
-Before joining Facebook, I led a data science team at Walmart building machine learning solutions to understanding and forecasting customer behaviors. Prior to Walmar, I worked as a quantiative strategies and modelder at Deutsche Bank, Goldman Sachs, and J.P.Morgan. 
+Before joining Facebook, I led a data science team at Walmart building machine learning solutions to understanding and forecasting customer behaviors. Prior to Walmart, I worked as a quantiative strategies and modelder at Deutsche Bank, Goldman Sachs, and J.P.Morgan. 
   	      
 I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department of Statistics</a> at Rutgers University, New Brunswick (advisors Profs. <a href="http://www.stat.rutgers.edu/home/mxie/">Minge Xie</a> and <a href="http://www.stat.rutgers.edu/joomlatools-files/docman-files/Liu-CV-05-2015.pdf">Regina Y. Liu</a>) and BSc in Statistics from <a href="http://www.ustc.edu.cn/">University of Science and Technology of China</a>.
 
@@ -36,6 +36,10 @@ A unifying framework for uncertainty quantification in prediction.
 
 [Predictive Customer Lifetime Value]()
 
+Customer lifetime value measures the worth of a customer to a firm. It is the net present value of future cash flow from the customer’s relationship to the firm, and has been studied in academia for decades and has been gaining growing interest and routinely used by firms to develop customer-centric strategies. Check the link for my survey paper on morden approache in predicting customer lifetime values. 
+
+<img src="images/clv.jpeg?raw=true" width="600"/>
+
 
 ---
 
@@ -56,6 +60,8 @@ A curated list of 21st century literatures for a variety of topics on U.S. Treas
 My 200+ pages notes for quantitative finance interview topics, covering from classical statistics to machine learning, from derivative pricing to algorithmic trading, from low-level programming to cloud computing, and more!
 
 <img src="images/book.png?raw=true"/>
+
+---
 
 [Crypto Trading Bot]()
 
