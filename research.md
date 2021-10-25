@@ -1,6 +1,6 @@
 ## Academic Research
 
-[Back to home page](/index)
+[[Back to home page]](/index)
 
 
 My acadmic research areas include [confidence distribution](https://en.wikipedia.org/wiki/Confidence_distribution), [meta-analysis](https://en.wikipedia.org/wiki/Meta-analysis), statistical fusion learning, predictive inference, and Bayesian data analysis. Other research topics include high dimensional data analysis, sports statistics, and graphical modeling.
