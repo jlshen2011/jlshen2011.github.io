@@ -35,8 +35,8 @@ My acadmic research areas include [confidence distribution](https://en.wikipedia
 
 ### Presentations
 
-- 2016. Prediction with confidence: A General framework for prediction. *Joint Statistical Meeting (JSM)*, Chicago, IL.
-- 2016. Individualized fusion (iFusion) learning: A confidence distribution approach. *2016 CCICADA Retreat at Rutgers University*, Piscataway, NJ.
-- 2016. iFusion: Individualized fusion learning. *Fusion Learning & BFF (Bayesian, Frequentist and Fiducial) Inferences and Statistical Foundations*, Piscataway, NJ.
-- 2016. Confidence distribution (CD) and unifying concept for statistical inference. *Invited Talk at School of Mathematics and Statistics, Central China Normal University*, Wuhan, China.
-- 2015. Fusion learning by individual-to-clique (FLIC): Efficient approach to enhancing individual inference. *2015 Institute for Operations Research and the Management Sciences (INFORMS) Annual Meeting*, Philadelphia, PA.
+- Prediction with confidence: A General framework for prediction. (2016). *Joint Statistical Meeting (JSM)*, Chicago, IL.
+- Individualized fusion (iFusion) learning: A confidence distribution approach. (2016). *2016 CCICADA Retreat at Rutgers University*, Piscataway, NJ.
+- iFusion: Individualized fusion learning. (2016). *Fusion Learning & BFF (Bayesian, Frequentist and Fiducial) Inferences and Statistical Foundations*, Piscataway, NJ.
+- Confidence distribution (CD) and unifying concept for statistical inference. (2016). *Invited Talk at School of Mathematics and Statistics, Central China Normal University*, Wuhan, China.
+- Fusion learning by individual-to-clique (FLIC): Efficient approach to enhancing individual inference. (2015). *2015 Institute for Operations Research and the Management Sciences (INFORMS) Annual Meeting*, Philadelphia, PA.
