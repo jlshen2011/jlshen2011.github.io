@@ -9,16 +9,13 @@ I received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Department
 ---
 
 ## Positions
-### 2021-Current
-* Software Engineer - Machine Learning, Meta
-
-### Previously
-* Staff Data Scientist / Senior Manager I, Walmart
-* Associate, Fixed Income Strats, Deutsche Bank
-* Associate, Molder, Goldman Sachs
+* 2021-Current, Software Engineer - Machine Learning, Meta
+* 2020-2021, Staff Data Scientist / Senior Manager I, Walmart
+* 2018-2020, Associate, Fixed Income Strats, Deutsche Bank
+* 2017-2018, Associate, Quantitative Molder, Goldman Sachs
 
 ---
 
 ## Education 
-* Ph.D. in Statistics, Rutgers University, New Brunswick
-*  B.S. in Statistics, University of Science and Technology of China
+* 2012-2017, Ph.D. in Statistics, Rutgers University, New Brunswick
+* 2008-2012, B.S. in Statistics, University of Science and Technology of China
