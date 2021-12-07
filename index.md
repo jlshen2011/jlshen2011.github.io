@@ -1,4 +1,4 @@
-[About](/index)|[Research](/research)|[Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en)|[eBook]()
+[   About   ](/index)|[  Research  ](/research)|[Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en)|[   eBook   ]()
 
 # About
 ## Bio 
