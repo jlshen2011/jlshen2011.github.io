@@ -7,19 +7,13 @@ Jieli received PhD in Statistics from <a href="http://stat.rutgers.edu/"> Depart
 
 ## Positions
 ### 2021-Current
-#### Software Engineer - Machine Learning
-Meta
+* Software Engineer - Machine Learning, Meta
 
 ### Previously
-#### Staff Data Scientist / Senior Manager I, Data Science
-Walmart
-#### Associate, Fixed Income Strats
-Deutsche Bank
-#### Associate, Molder
-Goldman Sachs
+* Staff Data Scientist / Senior Manager I, Walmart
+* Associate, Fixed Income Strats, Deutsche Bank
+* Associate, Molder, Goldman Sachs
 
 ## Education 
-#### Ph.D. in Statistics
-Rutgers University, New Brunswick
-#### B.S. in Statistics
-University of Science and Technology of China
+* Ph.D. in Statistics, Rutgers University, New Brunswick
+*  B.S. in Statistics, University of Science and Technology of China
