@@ -1,6 +1,4 @@
-[About](/index) | [Research](/research) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en)
-
----
+[About](/index) | [Research](/research) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]()
 
 # Welcome
 ## Bio 
