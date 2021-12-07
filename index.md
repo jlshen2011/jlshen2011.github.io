@@ -1,6 +1,6 @@
 # Welcome
 
-[  Welcome  ](/index)|[  Research  ](/research)|[Publication](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en)|[   eBook   ]()
+[Welcome](/index)|[Research](/research)|[Publication](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en)|[eBook]()
 
 ## Bio
 Jieli Shen is a machine learning engineer at Meta Platforms (formerly Facebook). Previously, he led the modeling team of customer data science at Walmart, and worked at Deutsche Bank, Goldman Sachs. Jieli's research interests include theoretical foundations for statistical inference, statistical methods for personalized inference and prediction, and applied machine learning in a variety of domains such as quantitative finance, customer science, and recommendation systems. 
