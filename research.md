@@ -2,8 +2,6 @@
 
 # Research
 
----
-
 ## Theoretical Foundation of Statistical Inference
 
 The research proposes a general framework for prediction in which a prediction is presented in the form of a distribution function, called *predictive distribution function*. This predictive distribution function is well suited for the notion of confidence subscribed in the frequentist interpretation, and it can provide meaningful answers for questions related to prediction. 
