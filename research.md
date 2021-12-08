@@ -4,6 +4,23 @@
 
 ## Theoretical Foundation of Statistical Inference
 
+The research is to develop new methodologies with in mind the foundational principles of statistical inference, in particular, using the concept of confidence distribution. A confidence distribtion can been loosely referred to as a distribution function on the parameter space that can represent confidence intervals of all levels for a parameter of interest. It is no different from a point estimator or an interval estimator (confidence interval), but it uses a sample-dependent distribution function on the parameter space (instead of a point or an interval) to estimate the parameter of interest. Some recent developments have highlighted the promising potentials of the CD concept, as an effective inferential tool
+
+
+
+
+
+
+ it encompasses and unifies a wide range of examples, from regular parametric cases (including most examples of the classical development of Fisher's fiducial distribution) to bootstrap distributions, p-value functions,[5] normalized likelihood functions and, in some cases, Bayesian priors and Bayesian posteriors.[6]
+
+
+
+
+
+The [Bayesian, Fiducial, and Frequentist (BFF) community](http://bff-stat.org/) began in 2014 as a means to facilitate scientific exchange among statisticians and scholars in related fields that  The community encourages and promotes research activities , 
+
+
+
 The research proposes a general framework for prediction in which a prediction is presented in the form of a distribution function, called *predictive distribution function*. This predictive distribution function is well suited for the notion of confidence subscribed in the frequentist interpretation, and it can provide meaningful answers for questions related to prediction. 
 
 A general approach under this framework is formulated and illustrated by using the so-called confidence distributions (CDs). This CD-based prediction approach inherits many desirable properties of CD, including its capacity for serving as a common platform for connecting and unifying the existing procedures of predictive inference in Bayesian, fiducial and frequentist paradigms. The theory underlying the CD-based predictive distribution is developed and some related efficiency and optimality issues are addressed. Moreover, a simple yet broadly applicable Monte Carlo algorithm is proposed for the implementation of the proposed approach. This concrete algorithm together with the proposed definition and associated theoretical development produce a comprehensive statistical inference framework for prediction. 
@@ -36,6 +53,11 @@ In essence, iFusion strategically “borrows strength” from relevant individua
 ---
 
 ## Predictive Customer Lifetime Value
+
+Customer lifetime value (CLV) measures the worth of a customer to a firm. It is the net present value of future
+cash flow from the customer’s relationship to the firm. CLV has been studied in academia for decades and has been
+gaining growing interest and routinely used by firms to develop customer-centric strategies. There are numerous values offered by CLV. One of the primary uses is by marketers to “determine the ideal target audience for promotional offers, personalized customer messaging, exclusive deals, rewards programs” [Vanderveld et al., 2016], and to optimize their marketing spend for optimal return on investment. In addition to its huge marketing value, CLV can be used as a general performance metric in all areas of business, with a focus on the profitable growth in the long term [Vanderveld et al., 2016], as opposed to many metrics that values customers only over the short term. Last but not definitely not the least, CLV can help financial planning and tie the firm’s overall financial valuation to its customer base in an explicit way [McCarthy and Fader, 2018]. For more examples of using CLV to develop actionable customer-centric strategies see Kumar [2008], Fader and Toms [2018].
+
 A study of modern approaches to predicting customer lifetime value and how to use it to develop customer-centric strategies. 
 
 <img src="images/clv.jpeg?raw=true" width="600"/>
@@ -46,11 +68,21 @@ A study of modern approaches to predicting customer lifetime value and how to us
 
 ---
 
-## Machine Learning Applications in Quantitative Finance
+## Machine Learning Applications in U.S. Treasury Market
+
+With the numerous advancements in big data, artificial intelligence, and machine learning, applying
+machine learning techniques to predict financial markets has received surging interests in recent years.
+Lots of research and therefore survey articles have been written on machine learning applications
+in stock market prediction. To my best knowledge, however, there has not been a comprehensive
+survey dedicated for the sovereign debt market, i.e., the Treasury market - one of the largest and most
+impactful financial markets in the world. The purpose of this paper is to fill this gap by surveying and
+categorizing literatures in the domain of machine learning techniques used to predict the Treasury
+market movements from various perspectives of predictive modeling workflows. Based on the
+summary, some future research directions are highlighted.
 
 A comprehensive survey on applying machine learning techniques for predicting sovereign debt market movement, based upon real-world experience and learnings on the trading floor. To be available at arXiv.org soon.
 
-<img src="images/tsy.gif?raw=true" width="600"/>
+<img src="images/ust.jpeg?raw=true" width="600"/>
 
 ### Working papers and publications
 - **J Shen**. A survey of machine learning applications in forecasting Treasury market. To be available at arXiv.org.
