@@ -6,27 +6,10 @@
 
 <img src="images/bff.png?raw=true" width="600"/>
 
-The research is to develop new methodologies with in mind the foundational principles of statistical inference, in particular, using the concept of confidence distribution. A confidence distribtion can been loosely referred to as a distribution function on the parameter space that can represent confidence intervals of all levels for a parameter of interest. It is no different from a point estimator or an interval estimator (confidence interval), but it uses a sample-dependent distribution function on the parameter space (instead of a point or an interval) to estimate the parameter of interest. Some recent developments have highlighted the promising potentials of the CD concept, as an effective inferential tool
+Embedded within the [Bayesian, Fiducial, and Frequentist (BFF) community](http://bff-stat.org/), the research is to develop new methodologies with in mind the foundational principles of statistical inference, using the concept of confidence distributions. A confidence distribution can been loosely referred to as a distribution function on the parameter space that can represent confidence intervals of all levels for a parameter of interest, and encompasses and unifies a wide range of examples, from Fisher's fiducial distribution to bootstrap distributions, *p*-value functions, normalized likelihood functions and, in some cases, Bayesian posteriors.
 
-
-
-
-
-
- it encompasses and unifies a wide range of examples, from regular parametric cases (including most examples of the classical development of Fisher's fiducial distribution) to bootstrap distributions, p-value functions,[5] normalized likelihood functions and, in some cases, Bayesian priors and Bayesian posteriors.[6]
-
-
-
-
-
-The [Bayesian, Fiducial, and Frequentist (BFF) community](http://bff-stat.org/) began in 2014 as a means to facilitate scientific exchange among statisticians and scholars in related fields that  The community encourages and promotes research activities , 
-
-
-
-The research proposes a general framework for prediction in which a prediction is presented in the form of a distribution function, called *predictive distribution function*. This predictive distribution function is well suited for the notion of confidence subscribed in the frequentist interpretation, and it can provide meaningful answers for questions related to prediction. 
-
-A general approach under this framework is formulated and illustrated by using the so-called confidence distributions (CDs). This CD-based prediction approach inherits many desirable properties of CD, including its capacity for serving as a common platform for connecting and unifying the existing procedures of predictive inference in Bayesian, fiducial and frequentist paradigms. The theory underlying the CD-based predictive distribution is developed and some related efficiency and optimality issues are addressed. Moreover, a simple yet broadly applicable Monte Carlo algorithm is proposed for the implementation of the proposed approach. This concrete algorithm together with the proposed definition and associated theoretical development produce a comprehensive statistical inference framework for prediction. 
-
+Confidence distribution has shown to be an effective inferential tool in many statistical tasks such as classical parametric and nonparametric inferences, predictive inference, meta-analysis, etc. The research covers two use cases, personalized statistical inference, and predictive inference, both formulated using confidence distributions.
+ 
 ### Manuscripts & Publications
 - **J Shen**, M Xie, and R Liu. (2020). [*i*Fusion: Individualized fusion learning](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, **115**, 1251-1267.
 - **J Shen**, M Xie, and R Liu. (2019). [Prediction with confidence - A general framework for predictive inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375817301696). *Journal of Statistical Planing and Inference*, **195**: 126-140.
