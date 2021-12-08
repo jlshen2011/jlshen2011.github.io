@@ -70,19 +70,9 @@ A study of modern approaches to predicting customer lifetime value and how to us
 
 ## Machine Learning Applications in U.S. Treasury Market
 
-With the numerous advancements in big data, artificial intelligence, and machine learning, applying
-machine learning techniques to predict financial markets has received surging interests in recent years.
-Lots of research and therefore survey articles have been written on machine learning applications
-in stock market prediction. To my best knowledge, however, there has not been a comprehensive
-survey dedicated for the sovereign debt market, i.e., the Treasury market - one of the largest and most
-impactful financial markets in the world. The purpose of this paper is to fill this gap by surveying and
-categorizing literatures in the domain of machine learning techniques used to predict the Treasury
-market movements from various perspectives of predictive modeling workflows. Based on the
-summary, some future research directions are highlighted.
-
-A comprehensive survey on applying machine learning techniques for predicting sovereign debt market movement, based upon real-world experience and learnings on the trading floor. To be available at arXiv.org soon.
-
 <img src="images/ust.jpeg?raw=true" width="600"/>
+
+The research topic is to apply machine learning methods in predicting the U.S. Treasury market, for different types of prediction targets including Treasury yield curve, yield spread, bond future price, and bond risk premia, at various timescales from intraday to yearly. 
 
 ### Working papers and publications
 - **J Shen**. A survey of machine learning applications in forecasting Treasury market. To be available at arXiv.org.
