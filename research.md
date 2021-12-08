@@ -54,17 +54,17 @@ In essence, iFusion strategically “borrows strength” from relevant individua
 
 ## Predictive Customer Lifetime Value
 
+<img src="images/clv.jpeg?raw=true" width="600"/>
+
 Customer lifetime value (CLV) measures the worth of a customer to a firm. It is the net present value of future
 cash flow from the customer’s relationship to the firm. CLV has been studied in academia for decades and has been
 gaining growing interest and routinely used by firms to develop customer-centric strategies. There are numerous values offered by CLV. One of the primary uses is by marketers to “determine the ideal target audience for promotional offers, personalized customer messaging, exclusive deals, rewards programs” [Vanderveld et al., 2016], and to optimize their marketing spend for optimal return on investment. In addition to its huge marketing value, CLV can be used as a general performance metric in all areas of business, with a focus on the profitable growth in the long term [Vanderveld et al., 2016], as opposed to many metrics that values customers only over the short term. Last but not definitely not the least, CLV can help financial planning and tie the firm’s overall financial valuation to its customer base in an explicit way [McCarthy and Fader, 2018]. For more examples of using CLV to develop actionable customer-centric strategies see Kumar [2008], Fader and Toms [2018].
 
 A study of modern approaches to predicting customer lifetime value and how to use it to develop customer-centric strategies. 
 
-<img src="images/clv.jpeg?raw=true" width="600"/>
 
 ### Working papers and publications
 - **J Shen**. Predictive customer lifetime value - a survey. To be available at arXiv.org.
-
 
 ---
 
