@@ -4,6 +4,9 @@
 
 ## Theoretical Foundation of Statistical Inference
 
+<img src="images/idea.png?raw=true" width="600"/>
+
+
 The research is to develop new methodologies with in mind the foundational principles of statistical inference, in particular, using the concept of confidence distribution. A confidence distribtion can been loosely referred to as a distribution function on the parameter space that can represent confidence intervals of all levels for a parameter of interest. It is no different from a point estimator or an interval estimator (confidence interval), but it uses a sample-dependent distribution function on the parameter space (instead of a point or an interval) to estimate the parameter of interest. Some recent developments have highlighted the promising potentials of the CD concept, as an effective inferential tool
 
 
@@ -35,20 +38,12 @@ A general approach under this framework is formulated and illustrated by using t
 
 ## Statistical Methods for Personalized Inference
 
-Inferences from different data sources can often be fused together, a process referred to as “fusion learning,” to yield more powerful findings than those from individual data sources alone. Effective fusion learning approaches are in growing demand as increasing number of data sources have become easily available in this big data era. 
-
-This research proposes a new fusion learning approach, called “*i*Fusion,” for drawing efficient individualized inference by fusing learnings from relevant data sources. Specifically, *i*Fusion:	
-
-1. summarizes inferences from individual data sources as individual confidence distributions (CDs); 
-2. forms a clique of individuals that bear relevance to the target individual and then combines the CDs from those relevant individuals; 
-3. draws inference for the target individual from the combined CD. 
-
-In essence, iFusion strategically “borrows strength” from relevant individuals to enhance the efficiency of the target individual inference while preserving its validity. The research focuses on the setting where each individual study has a number of observations but its inference can be further improved by incorporating additional information from similar studies that is referred to as its clique. Under the setting, iFusion is shown to achieve oracle property under suitable conditions. It is also shown to be flexible and robust in handling heterogeneity arising from diverse data sources. The development is ideally suited for goal-directed applications. Computationally, iFusion is parallel in nature and scales up easily for big data. An efficient scalable algorithm is provided for implementation. 
-
 <img src="images/idea.png?raw=true" width="600"/>
 
-### Working papers and publications
-- **J Shen**, M Xie, and R Liu. (2019). [*i*Fusion: Individualized Fusion Learning](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, to appear.
+The research is to develop new methods and computing algorithms to make efficient and individualized (a.k.a. personalized) statistical inference by fusing inference from relevant data sources, thus named *i*Fusion. The method improves efficiency upon inference using individual data source alone, while still preserve statistical validity even when the fused data sources are heterogenous, and is well-suited for goal-directed applications.
+
+### Manuscripts & publications
+- **J Shen**, M Xie, and R Liu. (2020). [*i*Fusion: Individualized fusion learning](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, **115**, 1251-1267.
 
 ---
 
@@ -56,9 +51,9 @@ In essence, iFusion strategically “borrows strength” from relevant individua
 
 <img src="images/clv.jpeg?raw=true" width="600"/>
 
-Customer lifetime value (CLV) measures the worth of a customer to a firm. It is the net present value of future cash flow from the customer’s relationship to the firm. There are numerous values offered by CLV, such as by marketers to determine the ideal target audience for promotional offers, personalized customer messaging, exclusive deals, rewards programs, and by finance to tie the firm’s overall financial valuation to its customer base. The research is to study the modern machine learning based approaches to predicting customer lifetime value and to using it to develop customer-centric strategies.
+Customer lifetime value (CLV) measures the worth of a customer from the customer’s relationship to the firm, and has been widely used such as by marketers to determine the ideal target audience for promotional offers, personalized customer messaging, exclusive deals, rewards programs, and by finance to tie the firm’s overall financial valuation to its customer base. The research is to study the statistical and machine learning based approaches to predicting customer lifetime value and to using it to develop customer-centric strategies.
 
-### Working papers and publications
+### Manuscripts & publications
 - **J Shen**. Predictive customer lifetime value - a survey. To be available at arXiv.org.
 
 ---
@@ -69,7 +64,7 @@ Customer lifetime value (CLV) measures the worth of a customer to a firm. It is 
 
 The research is to apply machine learning methods in predicting the U.S. Treasury market, for different types of prediction targets including Treasury yield curve, yield spread, bond future price, and bond risk premia, at various timescales from intraday to yearly. 
 
-### Working papers and publications
+### Manuscripts & publications
 - **J Shen**. A survey of machine learning applications in forecasting Treasury market. To be available at arXiv.org.
 
 <!---
