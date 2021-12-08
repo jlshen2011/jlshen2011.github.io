@@ -4,8 +4,7 @@
 
 ## Theoretical Foundation of Statistical Inference
 
-<img src="images/idea.png?raw=true" width="600"/>
-
+<img src="images/bff.png?raw=true" width="600"/>
 
 The research is to develop new methodologies with in mind the foundational principles of statistical inference, in particular, using the concept of confidence distribution. A confidence distribtion can been loosely referred to as a distribution function on the parameter space that can represent confidence intervals of all levels for a parameter of interest. It is no different from a point estimator or an interval estimator (confidence interval), but it uses a sample-dependent distribution function on the parameter space (instead of a point or an interval) to estimate the parameter of interest. Some recent developments have highlighted the promising potentials of the CD concept, as an effective inferential tool
 
@@ -28,7 +27,7 @@ The research proposes a general framework for prediction in which a prediction i
 
 A general approach under this framework is formulated and illustrated by using the so-called confidence distributions (CDs). This CD-based prediction approach inherits many desirable properties of CD, including its capacity for serving as a common platform for connecting and unifying the existing procedures of predictive inference in Bayesian, fiducial and frequentist paradigms. The theory underlying the CD-based predictive distribution is developed and some related efficiency and optimality issues are addressed. Moreover, a simple yet broadly applicable Monte Carlo algorithm is proposed for the implementation of the proposed approach. This concrete algorithm together with the proposed definition and associated theoretical development produce a comprehensive statistical inference framework for prediction. 
 
-### Working papers and publications
+### Manuscripts & Publications
 - **J Shen**, M Xie, and R Liu. (2020). [*i*Fusion: Individualized fusion learning](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, **115**, 1251-1267.
 - **J Shen**, M Xie, and R Liu. (2019). [Prediction with confidence - A general framework for predictive inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375817301696). *Journal of Statistical Planing and Inference*, **195**: 126-140.
 - V Vovk, **J Shen**, V Manokhin, M Xie, and R Liu. (2019). [Nonparametric predictive distributions based on conformal prediction](https://link.springer.com/article/10.1007/s10994-018-5755-8). *Machine Learning*, **108**: 445-474. 
@@ -42,7 +41,7 @@ A general approach under this framework is formulated and illustrated by using t
 
 The research is to develop new methods and computing algorithms to make efficient and individualized (a.k.a. personalized) statistical inference by fusing inference from relevant data sources, thus named *i*Fusion. The method improves efficiency upon inference using individual data source alone, while still preserve statistical validity even when the fused data sources are heterogenous, and is well-suited for goal-directed applications.
 
-### Manuscripts & publications
+### Manuscripts & Publications
 - **J Shen**, M Xie, and R Liu. (2020). [*i*Fusion: Individualized fusion learning](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, **115**, 1251-1267.
 
 ---
@@ -53,7 +52,7 @@ The research is to develop new methods and computing algorithms to make efficien
 
 Customer lifetime value (CLV) measures the worth of a customer from the customer’s relationship to the firm, and has been widely used such as by marketers to determine the ideal target audience for promotional offers, personalized customer messaging, exclusive deals, rewards programs, and by finance to tie the firm’s overall financial valuation to its customer base. The research is to study the statistical and machine learning based approaches to predicting customer lifetime value and to using it to develop customer-centric strategies.
 
-### Manuscripts & publications
+### Manuscripts & Publications
 - **J Shen**. Predictive customer lifetime value - a survey. To be available at arXiv.org.
 
 ---
@@ -64,7 +63,7 @@ Customer lifetime value (CLV) measures the worth of a customer from the customer
 
 The research is to apply machine learning methods in predicting the U.S. Treasury market, for different types of prediction targets including Treasury yield curve, yield spread, bond future price, and bond risk premia, at various timescales from intraday to yearly. 
 
-### Manuscripts & publications
+### Manuscripts & Publications
 - **J Shen**. A survey of machine learning applications in forecasting Treasury market. To be available at arXiv.org.
 
 <!---
