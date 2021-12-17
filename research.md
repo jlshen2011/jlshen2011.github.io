@@ -1,4 +1,4 @@
-[Welcome](/index) | [Research](/research) | [Services](/services) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]()
+\[Welcome](/index) | [Research](/research) | [Services](/services) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]()
 
 # Research
 
@@ -12,7 +12,7 @@ Confidence distribution has shown to be an effective inferential tool in many st
  
 ### Manuscripts & Publications
 - **J Shen**, M Xie, and R Liu. (2020). [*i*Fusion: Individualized fusion learning](https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2019.1672557#.XciGbJJKg6U). *Journal of the American Statistical Association*, **115**, 1251-1267.
-- **J Shen**, M Xie, and R Liu. (2019). [Prediction with confidence - A general framework for predictive inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375817301696). *Journal of Statistical Planing and Inference*, **195**: 126-140.
+- **J Shen**, M Xie, and R Liu. (2019). [Prediction with confidence - A general framework for predictive inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375817301696). *Journal of Statistical Planning and Inference*, **195**: 126-140.
 - V Vovk, **J Shen**, V Manokhin, M Xie, and R Liu. (2019). [Nonparametric predictive distributions based on conformal prediction](https://link.springer.com/article/10.1007/s10994-018-5755-8). *Machine Learning*, **108**: 445-474. 
 - **J Shen** and C Li. Meta-analysis of correlation coefficients using confidence distributions. Manuscript.
 
