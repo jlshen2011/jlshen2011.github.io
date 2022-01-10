@@ -1,4 +1,4 @@
-[Welcome](/index) | [Research](/research) | [Services](/services) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]()
+[Welcome](/index) | [Research](/research) | [Services](/services) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]() | [StockPick](/stockpick)
 
 # Services
 
