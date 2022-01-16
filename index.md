@@ -1,4 +1,4 @@
-[Welcome](/index) | [Research](/research) | [Services](/services) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]() | [StockPick](https://stocktwits.com/jlshen2011)
+[Welcome](/index) | [Research](/research) | [Services](/services) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]() | [The Algo Choice](https://jlshen2011.github.io/the-algo-choice/)
 
 # Welcome
 
