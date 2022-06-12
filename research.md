@@ -1,4 +1,4 @@
-[Welcome](/index) | [Research](/research) | [Services](/services) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]() | [The Algo's Choice](https://thealgoschoice.mobirisesite.com/main.html)
+[Welcome](/index) | [Research](/research) | [Services](/services) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]() | [Algo2](https://thealgoschoice.mobirisesite.com/main.html)
 
 # Research
 
@@ -36,7 +36,7 @@ The research is to develop new methods and computing algorithms to make efficien
 Customer lifetime value (CLV) measures the worth of a customer from the customer’s relationship to the firm, and has been widely used such as by marketers to determine the ideal target audience for promotional offers, personalized customer messaging, exclusive deals, rewards programs, and by finance to tie the firm’s overall financial valuation to its customer base. The research is to study the statistical and machine learning based approaches to predicting customer lifetime value and to using it to develop customer-centric strategies.
 
 ### Manuscripts & Publications
-- **J Shen**. Predictive customer lifetime value - a survey. To be available at arXiv.org.
+- **J Shen**. Predictive customer lifetime value - a survey. To submit.
 
 
 <!---
