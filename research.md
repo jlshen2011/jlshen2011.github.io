@@ -38,7 +38,8 @@ Customer lifetime value (CLV) measures the worth of a customer from the customer
 ### Manuscripts & Publications
 - **J Shen**. Predictive customer lifetime value - a survey. To be available at arXiv.org.
 
----
+
+<!---
 
 ## Machine Learning Applications in U.S. Treasury Market
 
@@ -48,8 +49,6 @@ The research is to apply machine learning methods in predicting the U.S. Treasur
 
 ### Manuscripts & Publications
 - **J Shen**. A survey of machine learning applications in forecasting Treasury market. To be available at arXiv.org.
-
-<!---
 
 ### Manuscripts
 
