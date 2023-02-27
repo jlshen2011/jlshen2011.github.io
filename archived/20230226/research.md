@@ -1,4 +1,4 @@
-[Welcome](/index) | [Research](/research) | [Services](/services) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]() | [Algo2](https://thealgoschoice.mobirisesite.com/main.html)
+[Welcome](/index) | [Research](/research) | [Services](/services) | [Publications](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en) | [eBook]() | [Algo2](https://thealgoschoice.mobirisesite.com/)
 
 # Research
 
