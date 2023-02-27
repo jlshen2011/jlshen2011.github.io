@@ -1,0 +1,27 @@
+body{ /* Normal  */
+      font-size: 18px;
+  }
+
+blockquote {
+  font-style: italic
+}
+
+img {
+  width: 210px;
+  display: block;
+  margin: 10 auto;
+  float: right;
+}
+
+h1 { /* Header 1 */
+  font-size: 28px;
+  color: DarkBlue;
+}
+h2 { /* Header 2 */
+    font-size: 22px;
+    color: DarkBlue;
+}
+h3 { /* Header 3 */
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+}

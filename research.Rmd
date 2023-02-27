@@ -1,0 +1,55 @@
+---
+title: "Research"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+&nbsp;
+
+[Publication list](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en)
+
+&nbsp;
+
+# Academic Research
+
+&nbsp;
+
+## Statistical Methods for Personalized Inference
+
+Inferences from different data sources can often be fused together, referred to as fusion learning, to yield more powerful findings than those from individual data sources alone. The research proposes a new fusion learning approach, called *i*Fusion, for drawing efficient individualized inference by fusing learnings from relevant data sources. By strategically “borrowing strength” from relevant individuals, *i*Fusionto can enhance the efficiency of the target individual inference, with oracle property under suitable conditions, while it is flexible and robust in handling heterogeneity arising from diverse data sources. The development is ideally suited for goal-directed applications. Computationally, iFusion is parallel in nature and scales up easily for big data.
+
+&nbsp;
+
+## Prediction with Statistical Guarantee
+
+The research proposes a general framework for prediction in which a prediction is presented in the form of a predictive distribution function and is formulated by using confidence distributions (CDs). This CD-based prediction approach inherits many desirable properties of CD, including its capacity for serving as a common platform for connecting and unifying the existing procedures of predictive inference in Bayesian, fiducial and frequentist paradigms. The theory underlying the CD-based predictive distribution is developed and some related efficiency and optimality issues are addressed. Moreover, a simple yet broadly applicable Monte Carlo algorithm is proposed for the implementation of the proposed approach. 
+
+&nbsp;
+
+
+# Applied Research
+
+&nbsp;
+
+## Quantitative Finance
+* Market making algorithms (US Treasuries, corporate bonds)
+* Interest rate option pricing
+* Quantitative investing
+
+&nbsp;
+
+## Modern Recommendation Systems
+* Pre-ranking
+* Contextual chaining
+* Diversity and exploration
+
+&nbsp;
+
+## Customer Decision Science
+* Customer acquisition prediction
+* Customer churn prediction
+* Customer segmentation
+* Predictive customer lifetime value

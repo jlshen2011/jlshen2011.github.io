@@ -1,0 +1,40 @@
+---
+title: "Investing"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+&nbsp;
+
+I have been developing quantitative investing strategies for my personal account. The strategies follows the elements of quantitative trading and are rigorously backtested with proven superior historical risk-adjusted return than the S&P500 benchmark. 
+
+&nbsp;
+
+## Enhanced dollar-cost averaging
+
+Dollar-cost averaging (DCA) strategy enhanced by technical analysis, to some extent, timing the market, that can achieve higher investment return and lower average than the traditional DCA approach.
+
+&nbsp;
+
+## AI stock selection
+
+Machine learning model based on hundreds of technical, fundamental and sentiment indicators to predict the probability of stocks beating the market in the next 1 month, and portfolio construction from the topic picks from the model. 
+
+
+&nbsp;
+
+## Regime switching
+
+Strategy via identifying switches in the broader market regime using a combination of quantitative signals, and constructing ETF portfolio within each regime. 
+
+&nbsp;
+
+## Performance
+
+To be published.
+
+
+

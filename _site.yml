@@ -1,0 +1,15 @@
+name: "Jieli Shen"
+output_dir: "."
+navbar:
+  title: "Jieli Shen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Investing"
+      href: investing.html      
+output:
+  html_document:
+    theme: flatly
+    css: style.css
