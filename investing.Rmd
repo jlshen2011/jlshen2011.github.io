@@ -9,32 +9,33 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
-I have been developing quantitative investing strategies for my personal account. The strategies follows the elements of quantitative trading and are rigorously backtested with proven superior historical risk-adjusted return than the S&P500 benchmark. 
+I have been developing systematic investing strategies for my personal account, aiming at superior risk-adjusted return than the S&P 500 benchmark. 
 
 &nbsp;
 
-## Enhanced dollar-cost averaging
+## Enhanced Dollar-Cost Averaging
 
-Dollar-cost averaging (DCA) strategy enhanced by technical analysis, to some extent, timing the market, that can achieve higher investment return and lower average than the traditional DCA approach.
-
-&nbsp;
-
-## AI stock selection
-
-Machine learning model based on hundreds of technical, fundamental and sentiment indicators to predict the probability of stocks beating the market in the next 1 month, and portfolio construction from the topic picks from the model. 
-
+The dollar-cost averaging (DCA) method is widely adopted by investors to invest a constant dollar amount into the investment vehicle at regular basis. The strategy modifies the traditional DCA to adapt more to the current market condition that can deliver higher investment return and lower average than the traditional DCA approach.
 
 &nbsp;
 
-## Regime switching
+## Regime Switching ETF Portfolio
 
-Strategy via identifying switches in the broader market regime using a combination of quantitative signals, and constructing ETF portfolio within each regime. 
+The strategy determines the boarder market regime using a proprietary algorithm, and invests in different ETFs according to the current market regime, not only to enhance the long-term return, but also reduce risk avoiding large losses.
 
 &nbsp;
 
-## Performance
+## AI Stock Selection
 
-To be published.
+The strategy leverages a machine learning model that is trained on hundreds of technical, fundamental and sentiment indicators over thousands of stocks to predict their probabilities of price appreciation in the next one month, and constructs portfolios using the stocks with highest wins probabilities after a proprietary screening procedure.
 
+&nbsp;
 
+**Historical Performance**
 
+At the beginning of each month, I will release the stock list selected at beginning of the past month and its performance over the past month.
+
+* Feb 2023
+  * Stock list: ASO, DHI, EXTR, JBL, OI, SMCI, STNG, TPX, TTC, WNC
+  * Equally weighted portfolio return: +9.16%
+  * SPY return: -2.51%
