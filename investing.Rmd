@@ -39,3 +39,9 @@ On the last trading day of each month, I will release the stock list selected on
   * Stock list: ASO, DHI, EXTR, JBL, OI, SMCI, STNG, TPX, TTC, WNC
   * Equally weighted portfolio return: +9.16%
   * SPY return: -2.51%
+  
+  
+* March 2023
+  * Stock list: AMBC, AXON, AXSM, CARS, CECO, FTI, PWR, SILK, TMDX, XPRO
+  * Equally weighted portfolio return: -7.20%
+  * SPY return: +3.31%
