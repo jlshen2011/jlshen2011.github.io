@@ -35,13 +35,17 @@ The strategy leverages machine learning models that are trained on hundreds of t
 
 On the last trading day of each month, I will release the stock list selected on the last trading day of the previous month, and its performance during the current month.
 
-* Feb 2023
-  * Stock list: ASO, DHI, EXTR, JBL, OI, SMCI, STNG, TPX, TTC, WNC
-  * Equally weighted portfolio return: +9.16%
-  * SPY return: -2.51%
-  
+* April 2023
+  * Stock list: APG, BWXT, CIVI, EVH, IMAX, IR, PWR, TPH, UNM, X
+  * Equally weighted portfolio return: +3.36%
+  * SPY return: +1.59%
   
 * March 2023
   * Stock list: AMBC, AXON, AXSM, CARS, CECO, FTI, PWR, SILK, TMDX, XPRO
   * Equally weighted portfolio return: -7.20%
   * SPY return: +3.31%
+  
+* Feburary 2023
+  * Stock list: ASO, DHI, EXTR, JBL, OI, SMCI, STNG, TPX, TTC, WNC
+  * Equally weighted portfolio return: +9.16%
+  * SPY return: -2.51%
