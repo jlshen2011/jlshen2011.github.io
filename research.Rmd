@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Statistical Methods for Personalized Inference
 
-Inferences from different data sources can often be fused together, referred to as fusion learning, to yield more powerful findings than those from individual data sources alone. The research proposes a new fusion learning approach, called *i*Fusion, for drawing efficient individualized inference by fusing learnings from relevant data sources. By strategically “borrowing strength” from relevant individuals, *i*Fusionto can enhance the efficiency of the target individual inference, with oracle property under suitable conditions, while it is flexible and robust in handling heterogeneity arising from diverse data sources. The development is ideally suited for goal-directed applications.
+Inferences derived from various data sources can be combined, a process known as fusion learning, to produce more robust and powerful results compared to analyzing each data source individually. This research introduces a novel fusion learning approach called *i*Fusion, which aims to generate effective personalized inferences by integrating statistical results from relevant data sources. By intelligently leveraging the knowledge of relevant individuals, *i*Fusion improves the efficiency of individualized inference, exhibiting an oracle-like property under appropriate conditions. Moreover, *i*Fusion demonstrates versatility and resilience in handling the inherent heterogeneity present in diverse data sources. These advancements make *i*Fusion particularly well-suited for goal-oriented applications.
 
 **Main paper**: Jieli Shen, Regina Y. Liu and Minge Xie. (2020) *i*Fusion: Individualized fusion learning. [*Journal of the American Statistical Association*](https://www.tandfonline.com/doi/citedby/10.1080/01621459.2019.1672557?scroll=top&needAccess=true&role=tab) 115:531, pages 1251-1267.
 
@@ -27,20 +27,19 @@ Inferences from different data sources can often be fused together, referred to 
 
 ## Prediction with Statistical Guarantee
 
-The research proposes a general framework for prediction in which a prediction is presented in the form of a predictive distribution function and is formulated by confidence distributions (CDs). This CD-based prediction approach inherits many desirable properties of CD, including its capacity for serving as a common platform for connecting and unifying the existing procedures of predictive inference in Bayesian, fiducial and frequentist paradigms. The theory underlying the CD-based predictive distribution is developed and some related efficiency and optimality issues are addressed. Moreover, a simple yet broadly applicable Monte Carlo algorithm is proposed for the implementation of the proposed approach. 
+This research introduces a general framework for prediction that utilizes a predictive distribution function formulated by confidence distributions (CDs). By adopting this CD-based prediction approach, the framework inherits numerous desirable properties of CDs, making it a common platform for connecting and unifying existing procedures of predictive inference across Bayesian, fiducial, and frequentist paradigms. The theory underpinning the CD-based predictive distribution is thoroughly developed, addressing various efficiency and optimality considerations. Additionally, a simple yet broadly applicable Monte Carlo algorithm is proposed to facilitate the implementation of this approach in a wide range of applications.
 
 **Main paper**: Jieli Shen, Regina Y. Liu and Minge Xie. (2020) Prediction with confidence - a general framework for predictive inference. [*Journal of Statistical Planning and Inference*
 ](https://www.sciencedirect.com/science/article/abs/pii/S0378375817301696) 195, pages 126-140.
 
 &nbsp;
 
-
 # Applied Research
 
 &nbsp;
 
 ## Quantitative Finance
-* Market making algorithms (US Treasuries, corporate bonds)
+* Market making algorithms (Treasuries, corporate bonds)
 * Interest rate option pricing
 * Quantitative investing
 

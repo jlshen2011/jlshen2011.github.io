@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
-Hello! I am currently a machine learning engineer at Meta Platforms building recommendation systems for [Facebook Reels](https://about.fb.com/news/2021/09/launching-reels-on-facebook-us/). 
+Hello! I am currently a machine learning engineer at Meta building recommendation systems for [Facebook Reels](https://about.fb.com/news/2021/09/launching-reels-on-facebook-us/). 
 
-I received PhD in Statistics from Department of Statistics at Rutgers University, New Brunswick, advised by Profs. Minge Xie and Regina Y. Liu, and BSc in Statistics from University of Science and Technology of China.
+I received PhD in Statistics from [Department of Statistics](https://statistics.rutgers.edu/) at [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu/), advised by Professor [Minge Xie](http://www.stat.rutgers.edu/home/mxie/) and Professor [Regina Y. Liu](http://www.stat.rutgers.edu/joomlatools-files/docman-files/Liu-CV-05-2015.pdf), and BSc in Statistics from [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
 &nbsp;
 
@@ -22,19 +22,17 @@ I received PhD in Statistics from Department of Statistics at Rutgers University
 
 **Ph.D.**, Department of Statistics, Rutgers University, Oct 2017.
 
-Advisors: Professor [Minge Xie](http://www.stat.rutgers.edu/home/mxie/) and Professor [Regina Y. Liu](http://www.stat.rutgers.edu/joomlatools-files/docman-files/Liu-CV-05-2015.pdf).
-                   
 **BSc**, Department of Statistics and Finance, University of Science and Technology of China, June 2012.
 
 &nbsp;
 
 ## Positions
 
-**Machine learning engineer** at Meta Platforms, Apr 2021 to present.
+**Machine Learning Engineer** at Meta, Apr 2021 to present.
 
-**Staff data scientist** at Walmart, Jan 2020 to Apr 2021.
+**Staff Data Scientist** at Walmart, Jan 2020 to Apr 2021.
 
-**Fixed income strats** at Deutsche Bank, Dec 2018 to Dec 2019.
+**Associate** at Deutsche Bank, Dec 2018 to Dec 2019.
 
-**Quantitative modeler** at Goldman Sachs, Jun 2017 to Dec 2018.
+**Associate** at Goldman Sachs, Jun 2017 to Dec 2018.
 
