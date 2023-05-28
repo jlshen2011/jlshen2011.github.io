@@ -13,7 +13,7 @@ I have been developing systematic investing strategies for my personal investmen
 
 &nbsp;
 
-## Enhanced Dollar-Cost Averaging Strategy
+## Smart Dollar-Cost Averaging
 
 The strategy aims to enhance the traditional dollar-cost averaging (DCA) strategy by allowing investors to take advantage of market fluctuations by buying more(fewer) shares or assets when prices are lower(higher), leading to a lower average cost per share over time.
 
@@ -23,7 +23,7 @@ The strategy aims to enhance the traditional dollar-cost averaging (DCA) strateg
 
 &nbsp;
 
-## Sector Rotation Strategy
+## Sector Symphony
 
 The strategy involves systematically rotating investments among different sector-based ETFs based on market conditions and sector performance. It aims to take advantage of the varying performance of different sectors over time. By rotating investments into sectors that are expected to outperform and reducing exposure to underperforming sectors, the strategy seeks to generate returns that outpace the broader market.
 
@@ -33,7 +33,7 @@ The strategy involves systematically rotating investments among different sector
 
 &nbsp;
 
-## AI Stock Selection Strategy
+## NeuroGen
 
 The strategy utilizes advanced machine learning models trained on extensive datasets comprising hundreds of technical, fundamental, and sentiment indicators across thousands of stocks. These models enable the prediction of probabilities for price appreciation over the next month. The strategy then constructs portfolios by selecting stocks with the highest odds of success, employed in combination of a proprietary screening procedure.
 
