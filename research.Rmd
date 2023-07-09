@@ -46,14 +46,15 @@ This research introduces a general framework for prediction that utilizes a pred
 &nbsp;
 
 ## Modern Recommendation Systems
+* Retrieval
 * Pre-ranking
-* Contextual chaining
-* Diversity and exploration
+* Context-aware recommendation
+* Multi-interest sequence recommendation
 
 &nbsp;
 
 ## Customer Decision Science
-* Customer acquisition prediction
-* Customer churn prediction
 * Customer segmentation
-* Predictive customer lifetime value
+* Customer acquisition
+* Customer churn
+* Customer lifetime value
