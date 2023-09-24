@@ -9,8 +9,8 @@ navbar:
       href: research.html
     - text: "Investing"
       href: investing.html      
-    - text: "Education"
-      href: https://github.com/jlshen2011/ds-ml-reference          
+#    - text: "Education"
+#      href: https://github.com/jlshen2011/ds-ml-reference          
 output:
   html_document:
     theme: flatly

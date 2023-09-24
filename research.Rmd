@@ -46,10 +46,9 @@ This research introduces a general framework for prediction that utilizes a pred
 &nbsp;
 
 ## Modern Recommendation Systems
-* Retrieval
 * Pre-ranking
-* Context-aware recommendation
-* Multi-interest sequence recommendation
+* Contextual chaining
+* Interest-oriented recommendation
 
 &nbsp;
 
