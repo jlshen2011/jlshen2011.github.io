@@ -270,51 +270,165 @@ $(document).ready(function () {
 
 
 <p> </p>
-<p>I have been developing systematic investing strategies for my
-personal investment account with the primary objective of outperforming
-the S&amp;P 500 benchmark in terms of risk-adjusted returns.</p>
-<p> </p>
-<div id="smart-dollar-cost-averaging" class="section level2">
-<h2>Smart Dollar-Cost Averaging</h2>
-<p>The strategy aims to enhance the traditional dollar-cost averaging
-(DCA) strategy by allowing investors to take advantage of market
-fluctuations by buying more(fewer) shares or assets when prices are
-lower(higher), leading to a lower average cost per share over time.</p>
-<p> </p>
-<p><strong><a
-href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235766">White
-paper: A General Framework for Enhancing the Return of Dollar Cost
-Averaging Investing</a></strong></p>
+<div id="overview" class="section level1">
+<h1>Overview</h1>
+<p><strong>Algo2</strong> comprises a suite of systematic portfolio
+trading strategies designed with the primary goal of consistently
+surpassing the S&amp;P 500 index in terms of risk-adjusted returns over
+a multi-year time horizon.</p>
 <p> </p>
 </div>
-<div id="sector-symphony" class="section level2">
-<h2>Sector Symphony</h2>
-<p>The strategy involves systematically rotating investments among
-different sector-based ETFs based on market conditions and sector
-performance. It aims to take advantage of the varying performance of
-different sectors over time. By rotating investments into sectors that
-are expected to outperform and reducing exposure to underperforming
-sectors, the strategy seeks to generate returns that outpace the broader
-market.</p>
+<div id="approach" class="section level1">
+<h1>Approach</h1>
+<p>Our approach commences with a collection of diverse individual
+strategies encompassing various trading styles and market directions.
+The table below offers a high-level overview of these strategies
+employed within the portfolio, with specific details deliberately
+withheld. It also includes links to real-time trading performance for
+deeper insights. These individual strategies are subsequently
+amalgamated to form a portfolio, leveraging the diversification
+potential arising from their relatively low correlation with one
+another.</p>
 <p> </p>
-<p><strong><a
-href="https://docs.google.com/spreadsheets/d/1w4hUUEiMRVpUK5w4GcdGng_GvveTi6vLbDBm3kwdwzE/edit?usp=sharing">Historical
-Performance</a></strong></p>
+<table>
+<colgroup>
+<col width="9%" />
+<col width="46%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="center">No.</th>
+<th align="left">Description</th>
+<th align="center">Style</th>
+<th align="center">Direction</th>
+<th align="center">Performance</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">0</td>
+<td align="left">Benchmark strategy that buys and holds SPY</td>
+<td align="center">Buy-and-hold</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="even">
+<td align="center">1</td>
+<td align="left">The strategy involves buying high-momentum stocks that
+are in an upward trend and employs trailing stops to secure
+profits.</td>
+<td align="center">Trend-following</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="odd">
+<td align="center">2</td>
+<td align="left">The strategy aims to identify stocks that are in an
+uptrend but exhibit low volatility, with the belief that these stocks
+present an opportunity for a more consistent and steady price
+appreciation.</td>
+<td align="center">Trend-following</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="even">
+<td align="center">3</td>
+<td align="left">This strategy is geared towards pinpointing rocket
+stocks that have recently achieved all-time highs, validated by a surge
+in trading volume, with the anticipation that these stocks will maintain
+their upward momentum in the near future.</td>
+<td align="center">Trend-following</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="odd">
+<td align="center">4</td>
+<td align="left">The strategy actively searches for stocks exhibiting
+the most robust momentum, characterized by a consistent upward
+trajectory, and anticipates sustained growth in the foreseeable
+future.</td>
+<td align="center">Trend-following</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="even">
+<td align="center">5</td>
+<td align="left">The strategy is designed to seize the majority of
+pullbacks within an uptrend when the stocks become oversold, based on
+the percentage drop.</td>
+<td align="center">Mean-reversion</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="odd">
+<td align="center">6</td>
+<td align="left">The strategy, while also tailored to profit from
+pullbacks within an uptrend, employs a selection process that relies on
+advanced technical indicators like RSI and ADX.</td>
+<td align="center">Mean-reversion</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="even">
+<td align="center">7</td>
+<td align="left">The strategy scans for stocks that have crossed below
+the lower Bollinger Band, while also considering trader sentiment, in
+order to pinpoint stocks that are poised for potential rebounds.</td>
+<td align="center">Mean-reversion</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="odd">
+<td align="center">8</td>
+<td align="left">The strategy involves short-selling stocks using RSI
+and a set of additional technical indicators as a hedge when the overall
+market is in a downtrend.</td>
+<td align="center">Mean-reversion</td>
+<td align="center">Short</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="even">
+<td align="center">9</td>
+<td align="left">The strategy aims to identify stocks that have
+experienced a significant recent surge in price, anticipating a high
+probability of correction and a return to their mean or average
+value.</td>
+<td align="center">Mean-reversion</td>
+<td align="center">Short</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="odd">
+<td align="center">10</td>
+<td align="left">The strategy employs leverage to amplify benchmark
+returns during bull markets and switches to Treasury bills to manage
+risks measure during bear markets.</td>
+<td align="center">Leverage trading</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="even">
+<td align="center">11</td>
+<td align="left">The strategy, rebalanced monthly, dynamically allocates
+into stock funds and bond funds aiming for consitent return.</td>
+<td align="center">Sector rotation</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="odd">
+<td align="center">12</td>
+<td align="left">The strategy seeks out stocks with positive news
+catalysts and aims to capitalize on their intraday price growth within
+the same trading session.</td>
+<td align="center">Day trading</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+</tbody>
+</table>
 <p> </p>
-</div>
-<div id="neurogen" class="section level2">
-<h2>NeuroGen</h2>
-<p>The strategy utilizes advanced machine learning models trained on
-extensive datasets comprising hundreds of technical, fundamental, and
-sentiment indicators across thousands of stocks. These models enable the
-prediction of probabilities for price appreciation over the next month.
-The strategy then constructs portfolios by selecting stocks with the
-highest odds of success, employed in combination of a proprietary
-screening procedure.</p>
-<p> </p>
-<p><strong><a
-href="https://docs.google.com/spreadsheets/d/1w4hUUEiMRVpUK5w4GcdGng_GvveTi6vLbDBm3kwdwzE/edit?usp=sharing">Historical
-Performance</a></strong></p>
 </div>
 
 

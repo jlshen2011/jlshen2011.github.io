@@ -9,34 +9,37 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
-I have been developing systematic investing strategies for my personal investment account with the primary objective of outperforming the S&P 500 benchmark in terms of risk-adjusted returns. 
+# Overview
+ 
+**Algo2** comprises a suite of systematic portfolio trading strategies designed with the primary goal of consistently surpassing the S&P 500 index in terms of risk-adjusted returns over a multi-year time horizon.
 
 &nbsp;
 
-## Smart Dollar-Cost Averaging
+# Approach
 
-The strategy aims to enhance the traditional dollar-cost averaging (DCA) strategy by allowing investors to take advantage of market fluctuations by buying more(fewer) shares or assets when prices are lower(higher), leading to a lower average cost per share over time.
-
-&nbsp;
-
-**[White paper: A General Framework for Enhancing the Return of Dollar Cost Averaging Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4235766)**
+Our approach commences with a collection of diverse individual strategies encompassing various trading styles and market directions. The table below offers a high-level overview of these strategies employed within the portfolio, with specific details deliberately withheld. It also includes links to real-time trading performance for deeper insights. These individual strategies are subsequently amalgamated to form a portfolio, leveraging the diversification potential arising from their relatively low correlation with one another.
 
 &nbsp;
 
-## Sector Symphony
-
-The strategy involves systematically rotating investments among different sector-based ETFs based on market conditions and sector performance. It aims to take advantage of the varying performance of different sectors over time. By rotating investments into sectors that are expected to outperform and reducing exposure to underperforming sectors, the strategy seeks to generate returns that outpace the broader market.
+```{r table2, echo=FALSE, message=FALSE, warnings=FALSE, results='asis'}
+tabl <- "
+| No. | Description | Style | Direction | Performance  |
+|:--:|:------------------|:----:|:----:|:----:|
+| 0 | Benchmark strategy that buys and holds SPY | Buy-and-hold | Long | [Link]() |
+| 1 | The strategy involves buying high-momentum stocks that are in an upward trend and employs trailing stops to secure profits. | Trend-following | Long | [Link]() |
+| 2 | The strategy aims to identify stocks that are in an uptrend but exhibit low volatility, with the belief that these stocks present an opportunity for a more consistent and steady price appreciation. | Trend-following | Long | [Link]()
+| 3 | This strategy is geared towards pinpointing rocket stocks that have recently achieved all-time highs, validated by a surge in trading volume, with the anticipation that these stocks will maintain their upward momentum in the near future. | Trend-following | Long | [Link]() |
+| 4 | The strategy actively searches for stocks exhibiting the most robust momentum, characterized by a consistent upward trajectory, and anticipates sustained growth in the foreseeable future. | Trend-following | Long | [Link]() |
+| 5 | The strategy is designed to seize the majority of pullbacks within an uptrend when the stocks become oversold, based on the percentage drop. | Mean-reversion | Long | [Link]() |
+| 6 | The strategy, while also tailored to profit from pullbacks within an uptrend, employs a selection process that relies on advanced technical indicators like RSI and ADX. | Mean-reversion | Long | [Link]() |
+| 7 | The strategy scans for stocks that have crossed below the lower Bollinger Band, while also considering trader sentiment, in order to pinpoint stocks that are poised for potential rebounds. | Mean-reversion | Long | [Link]() |
+| 8 | The strategy involves short-selling stocks using RSI and a set of additional technical indicators as a hedge when the overall market is in a downtrend. | Mean-reversion | Short | [Link]() |
+| 9 | The strategy aims to identify stocks that have experienced a significant recent surge in price, anticipating a high probability of correction and a return to their mean or average value. | Mean-reversion | Short | [Link]() |
+| 10 | The strategy employs leverage to amplify benchmark returns during bull markets and switches to Treasury bills to manage risks measure during bear markets. | Leverage trading | Long | [Link]() |
+| 11 | The strategy, rebalanced monthly, dynamically allocates into stock funds and bond funds aiming for consitent return. | Sector rotation | Long | [Link]() |
+| 12 | The strategy seeks out stocks with positive news catalysts and aims to capitalize on their intraday price growth within the same trading session. | Day trading | Long | [Link]() |
+"
+cat(tabl) # output the table in a format good for HTML/PDF/docx conversion
+```
 
 &nbsp;
-
-**[Historical Performance](https://docs.google.com/spreadsheets/d/1w4hUUEiMRVpUK5w4GcdGng_GvveTi6vLbDBm3kwdwzE/edit?usp=sharing)**
-
-&nbsp;
-
-## NeuroGen
-
-The strategy utilizes advanced machine learning models trained on extensive datasets comprising hundreds of technical, fundamental, and sentiment indicators across thousands of stocks. These models enable the prediction of probabilities for price appreciation over the next month. The strategy then constructs portfolios by selecting stocks with the highest odds of success, employed in combination of a proprietary screening procedure.
-
-&nbsp;
-
-**[Historical Performance](https://docs.google.com/spreadsheets/d/1w4hUUEiMRVpUK5w4GcdGng_GvveTi6vLbDBm3kwdwzE/edit?usp=sharing)**
