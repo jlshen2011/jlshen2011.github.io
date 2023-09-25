@@ -9,15 +9,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
-[Publication list](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=itO_fw8AAAAJ&hl=en)
 
 &nbsp;
 
-# Academic Research
-
-&nbsp;
-
-## Statistical Methods for Personalized Inference
+# Statistical Methods for Personalized Inference
 
 Inferences derived from various data sources can be combined, a process known as fusion learning, to produce more robust and powerful results compared to analyzing each data source individually. This research introduces a novel fusion learning approach called *i*Fusion, which aims to generate effective personalized inferences by integrating statistical results from relevant data sources. By intelligently leveraging the knowledge of relevant individuals, *i*Fusion improves the efficiency of individualized inference, exhibiting an oracle-like property under appropriate conditions. Moreover, *i*Fusion demonstrates versatility and resilience in handling the inherent heterogeneity present in diverse data sources. These advancements make *i*Fusion particularly well-suited for goal-oriented applications.
 
@@ -25,7 +21,7 @@ Inferences derived from various data sources can be combined, a process known as
 
 &nbsp;
 
-## Prediction with Statistical Guarantee
+# Prediction with Statistical Guarantee
 
 This research introduces a general framework for prediction that utilizes a predictive distribution function formulated by confidence distributions (CDs). By adopting this CD-based prediction approach, the framework inherits numerous desirable properties of CDs, making it a common platform for connecting and unifying existing procedures of predictive inference across Bayesian, fiducial, and frequentist paradigms. The theory underpinning the CD-based predictive distribution is thoroughly developed, addressing various efficiency and optimality considerations. Additionally, a simple yet broadly applicable Monte Carlo algorithm is proposed to facilitate the implementation of this approach in a wide range of applications.
 
@@ -33,27 +29,3 @@ This research introduces a general framework for prediction that utilizes a pred
 ](https://www.sciencedirect.com/science/article/abs/pii/S0378375817301696) 195, pages 126-140.
 
 &nbsp;
-
-# Applied Research
-
-&nbsp;
-
-## Quantitative Finance
-* Market making algorithms (Treasuries, corporate bonds)
-* Interest rate option pricing
-* Quantitative investing
-
-&nbsp;
-
-## Modern Recommendation Systems
-* Pre-ranking
-* Contextual chaining
-* Interest-oriented recommendation
-
-&nbsp;
-
-## Customer Decision Science
-* Customer segmentation
-* Customer acquisition
-* Customer churn
-* Customer lifetime value

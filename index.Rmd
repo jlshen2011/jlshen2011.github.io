@@ -11,7 +11,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
-Hello! I am currently a machine learning engineer at Meta building recommendation systems for [Facebook Reels](https://about.fb.com/news/2021/09/launching-reels-on-facebook-us/). 
+Hello! I am a machine learning engineer at Meta and work on [Facebook Reels](https://about.fb.com/news/2021/09/launching-reels-on-facebook-us/) recommendation. In particular, I have been leading the pre-ranking work team, building the pre-ranking stage into Reels recommendation system from 0 to 1, scaling up its ranking capability by 5x and contributing to double-digits Reels watch time increase. Most recently, I am leading the contextual recommendation initiative which has enabled a seamless video chaining experience where the chaining recommendations instantly respond to the video you click and engage with at entry points. Check the [demo](https://www.facebook.com/reel/24663978383201228), open your Facebook App and try it out.
+
+
+Before Meta, I headed the Algorithms team in Walmart's Customer Science group, crafting customer-centric data science and machine learning solutions to grow Walmart's customer lifetime value (CLTV) and share of wallet. I was also one of the founding data scientists for Walmart's membership program, [Walmart+](https://corporate.walmart.com/news/2020/09/01/walmart-introduces-walmart), and built ML models on Walmart+ customer acquisition, conversion, retention, reactivation, and lifetime value for making informed marketing decisions. 
+
+
+In the earlier stages of my career, I gained valuable experience in quantitative finance when working at prestigious investment banks, including Goldman Sachs, J.P. Morgan, and Deutsche Bank. I focused on quantitative research related to fixed income, including Treasuries, corporate bonds, and various interest rate derivatives. My responsibilities extended to pricing models and the development of market-making algorithms.
+
 
 I received PhD in Statistics from [Department of Statistics](https://statistics.rutgers.edu/) at [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu/), advised by Professor [Minge Xie](http://www.stat.rutgers.edu/home/mxie/) and Professor [Regina Y. Liu](http://www.stat.rutgers.edu/joomlatools-files/docman-files/Liu-CV-05-2015.pdf), and BSc in Statistics from [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
@@ -26,13 +33,14 @@ I received PhD in Statistics from [Department of Statistics](https://statistics.
 
 &nbsp;
 
-## Positions
+## Experiences
 
-**Machine Learning Engineer** at Meta, Apr 2021 to present.
+**Software Engineer, Machine Learning** at Meta, Apr 2021 to present.
 
-**Staff Data Scientist** at Walmart, Jan 2020 to Apr 2021.
+**Senior Manager I, Data Science / Staff Data Scientist** at Walmart, Jan 2020 to Apr 2021.
 
 **Associate** at Deutsche Bank, Dec 2018 to Dec 2019.
 
 **Associate** at Goldman Sachs, Jun 2017 to Dec 2018.
 
+&nbsp;
