@@ -11,13 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Overview
  
-**Algo2** comprises a suite of systematic portfolio trading strategies designed with the primary goal of consistently surpassing the S&P 500 index in terms of risk-adjusted returns over a multi-year time horizon.
+**Algo2** comprises a suite of systematic portfolio trading strategies designed with the primary goal of consistently surpassing the S&P 500 index in terms of risk-adjusted returns over the long term.
 
 &nbsp;
 
 # Approach
 
-Our approach commences with a collection of diverse individual strategies encompassing various trading styles and market directions. The table below offers a high-level overview of these strategies employed within the portfolio, with specific details deliberately withheld. It also includes links to real-time trading performance for deeper insights. These individual strategies are subsequently amalgamated to form a portfolio, leveraging the diversification potential arising from their relatively low correlation with one another.
+Our approach commences with a collection of diverse individual strategies encompassing various trading styles and market directions. The table below offers a high-level overview of these strategies employed within the portfolio, with specific details deliberately withheld. It also includes links to real trading performance for deeper insights. These individual strategies are subsequently amalgamated to form a portfolio, leveraging the diversification potential arising from their relatively low correlation with one another.
 
 &nbsp;
 
@@ -31,13 +31,11 @@ tabl <- "
 | 3 | The strategy actively searches for stocks exhibiting the most robust momentum, characterized by a consistent upward trajectory, and anticipates sustained growth in the foreseeable future. | Trend-following | Long | [Link]() |
 | 4 | The strategy involves buying high-momentum stocks that are in an upward trend and employs trailing stops to secure profits. | Trend-following | Long | [Link]() |
 | 5 | The strategy aims to identify stocks that are in an uptrend but exhibit low volatility, with the belief that these stocks present an opportunity for a more consistent and steady price appreciation. | Trend-following | Long | [Link]()
-| 6 | This strategy is geared towards pinpointing rocket stocks that have recently achieved all-time highs, validated by a surge in trading volume, with the anticipation that these stocks will maintain their upward momentum in the near future. | Trend-following | Long | [Link]() |
-| 7 | The strategy is designed to seize the majority of pullbacks within an uptrend when the stocks become oversold, based on the percentage drop. | Mean-reversion | Long | [Link]() |
-| 8 | The strategy, while also tailored to profit from pullbacks within an uptrend, employs a selection process that relies on advanced technical indicators like RSI and ADX. | Mean-reversion | Long | [Link]() |
-| 9 | The strategy scans for stocks that have crossed below the lower Bollinger Band, while also considering trader sentiment, in order to pinpoint stocks that are poised for potential rebounds. | Mean-reversion | Long | [Link]() |
-| 10 | The strategy involves short-selling stocks using RSI and a set of additional technical indicators as a hedge when the overall market is in a downtrend. | Mean-reversion | Short | [Link]() |
-| 11 | The strategy aims to identify stocks that have experienced a significant recent surge in price, anticipating a high probability of correction and a return to their mean or average value. | Mean-reversion | Short | [Link]() |
-| 12 | The strategy seeks out stocks with positive news catalysts and aims to capitalize on their intraday price growth within the same trading session. | Day trading | Long | [Link]() |
+| 6 | The strategy is designed to seize the majority of pullbacks within an uptrend when the stocks become oversold, based on the percentage drop. | Mean-reversion | Long | [Link]() |
+| 7 | The strategy, while also tailored to profit from pullbacks within an uptrend, employs a selection process that relies on advanced technical indicators like RSI and ADX. | Mean-reversion | Long | [Link]() |
+| 8 | The strategy involves short-selling stocks using RSI and a set of additional technical indicators as a hedge when the overall market is in a downtrend. | Mean-reversion | Short | [Link]() |
+| 9 | The strategy aims to identify stocks that have experienced a significant recent surge in price, anticipating a high probability of correction and a return to their mean or average value. | Mean-reversion | Short | [Link]() |
+| 10 | The strategy seeks out stocks with positive news catalysts and aims to capitalize on their intraday price growth within the same trading session. | Day trading | Long | [Link]() |
 "
 cat(tabl) # output the table in a format good for HTML/PDF/docx conversion
 ```
