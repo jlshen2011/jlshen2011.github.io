@@ -11,13 +11,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Overview
  
-**Algo2** comprises a suite of systematic portfolio trading strategies designed with the primary goal of consistently surpassing the S&P 500 index in terms of risk-adjusted returns over the long term.
+**Algo2** encompasses a set of systematic trading strategies that, when employed collectively, aspire to consistently outperform the S&P 500 index by delivering superior returns while reducing risks.
 
 &nbsp;
 
 # Approach
 
-Our approach commences with a collection of diverse individual strategies encompassing various trading styles and market directions. The table below offers a high-level overview of these strategies employed within the portfolio, with specific details deliberately withheld. It also includes links to real trading performance for deeper insights. These individual strategies are subsequently amalgamated to form a portfolio, leveraging the diversification potential arising from their relatively low correlation with one another.
+Our approach commences with a collection of diverse individual strategies encompassing various trading styles and directions. The table below provides a high-level overview of these strategies employed within the portfolio, with specific details deliberately withheld. It also includes links to daily trading performance for further insights. These individual strategies are subsequently combined to form a portfolio to enhance risk-adjusted return.
 
 &nbsp;
 
@@ -25,17 +25,15 @@ Our approach commences with a collection of diverse individual strategies encomp
 tabl <- "
 | No. | Description | Style | Direction | Performance  |
 |:--:|:------------------|:----:|:----:|:----:|
-| 0 | Benchmark strategy that buys and holds SPY. | Buy-and-hold | Long | [Link]() |
-| 1 | The strategy employs leverage to amplify benchmark returns during bull markets and switches to Treasury bills to manage risks during bear markets. | Leverage trading | Long | [Link]() |
-| 2 | The monthly rebalanced strategy intelligently allocates capital to the most promising general stock index funds and bond index funds, using a sliding-window historical performance analysis as its guiding principle. | Sector rotation | Long | [Link]() |
+| 1 | The strategy uses leverage to amplify benchmark returns during bull markets and switches to Treasury bills to control risks during bear markets. | Leverage trading | Long | [Link]() |
+| 2 | The monthly rebalanced strategy intelligently allocates capital to the most promising stock and bond index funds, respectively, using a sliding-window historical performance analysis as its guiding principle. | Sector rotation | Long | [Link]() |
 | 3 | The strategy actively searches for stocks exhibiting the most robust momentum, characterized by a consistent upward trajectory, and anticipates sustained growth in the foreseeable future. | Trend-following | Long | [Link]() |
-| 4 | The strategy involves buying high-momentum stocks that are in an upward trend and employs trailing stops to secure profits. | Trend-following | Long | [Link]() |
+| 4 | The strategy involves buying high-momentum stocks with the strongest momentum during bull market, and employs various exit algorithms to secure profits. | Trend-following | Long | [Link]() |
 | 5 | The strategy aims to identify stocks that are in an uptrend but exhibit low volatility, with the belief that these stocks present an opportunity for a more consistent and steady price appreciation. | Trend-following | Long | [Link]()
-| 6 | The strategy is designed to seize the majority of pullbacks within an uptrend when the stocks become oversold, based on the percentage drop. | Mean-reversion | Long | [Link]() |
-| 7 | The strategy, while also tailored to profit from pullbacks within an uptrend, employs a selection process that relies on advanced technical indicators like RSI and ADX. | Mean-reversion | Long | [Link]() |
-| 8 | The strategy involves short-selling stocks using RSI and a set of additional technical indicators as a hedge when the overall market is in a downtrend. | Mean-reversion | Short | [Link]() |
+| 6 | The strategy is designed to seize the majority of pullbacks within an uptrend when the stocks become oversold, based on pullback sizes. | Mean-reversion | Long | [Link]() |
+| 7 | The strategy, while also aiming at profit from pullbacks within an uptrend, employs a more complex process based on technical indicators to select stocks. | Mean-reversion | Long | [Link]() |
+| 8 | The strategy involves short-selling stocks using RSI as a hedge when the overall market is in a downtrend. | Mean-reversion | Short | [Link]() |
 | 9 | The strategy aims to identify stocks that have experienced a significant recent surge in price, anticipating a high probability of correction and a return to their mean or average value. | Mean-reversion | Short | [Link]() |
-| 10 | The strategy seeks out stocks with positive news catalysts and aims to capitalize on their intraday price growth within the same trading session. | Day trading | Long | [Link]() |
 "
 cat(tabl) # output the table in a format good for HTML/PDF/docx conversion
 ```

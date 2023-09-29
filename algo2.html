@@ -272,22 +272,21 @@ $(document).ready(function () {
 <p> </p>
 <div id="overview" class="section level1">
 <h1>Overview</h1>
-<p><strong>Algo2</strong> comprises a suite of systematic portfolio
-trading strategies designed with the primary goal of consistently
-surpassing the S&amp;P 500 index in terms of risk-adjusted returns over
-the long term.</p>
+<p><strong>Algo2</strong> encompasses a set of systematic trading
+strategies that, when employed collectively, aspire to consistently
+outperform the S&amp;P 500 index by delivering superior returns while
+reducing risks.</p>
 <p> </p>
 </div>
 <div id="approach" class="section level1">
 <h1>Approach</h1>
 <p>Our approach commences with a collection of diverse individual
-strategies encompassing various trading styles and market directions.
-The table below offers a high-level overview of these strategies
-employed within the portfolio, with specific details deliberately
-withheld. It also includes links to real trading performance for deeper
-insights. These individual strategies are subsequently amalgamated to
-form a portfolio, leveraging the diversification potential arising from
-their relatively low correlation with one another.</p>
+strategies encompassing various trading styles and directions. The table
+below provides a high-level overview of these strategies employed within
+the portfolio, with specific details deliberately withheld. It also
+includes links to daily trading performance for further insights. These
+individual strategies are subsequently combined to form a portfolio to
+enhance risk-adjusted return.</p>
 <p> </p>
 <table>
 <colgroup>
@@ -308,32 +307,25 @@ their relatively low correlation with one another.</p>
 </thead>
 <tbody>
 <tr class="odd">
-<td align="center">0</td>
-<td align="left">Benchmark strategy that buys and holds SPY.</td>
-<td align="center">Buy-and-hold</td>
-<td align="center">Long</td>
-<td align="center"><a href="">Link</a></td>
-</tr>
-<tr class="even">
 <td align="center">1</td>
-<td align="left">The strategy employs leverage to amplify benchmark
-returns during bull markets and switches to Treasury bills to manage
-risks during bear markets.</td>
+<td align="left">The strategy uses leverage to amplify benchmark returns
+during bull markets and switches to Treasury bills to control risks
+during bear markets.</td>
 <td align="center">Leverage trading</td>
 <td align="center">Long</td>
 <td align="center"><a href="">Link</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="center">2</td>
 <td align="left">The monthly rebalanced strategy intelligently allocates
-capital to the most promising general stock index funds and bond index
-funds, using a sliding-window historical performance analysis as its
-guiding principle.</td>
+capital to the most promising stock and bond index funds, respectively,
+using a sliding-window historical performance analysis as its guiding
+principle.</td>
 <td align="center">Sector rotation</td>
 <td align="center">Long</td>
 <td align="center"><a href="">Link</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="center">3</td>
 <td align="left">The strategy actively searches for stocks exhibiting
 the most robust momentum, characterized by a consistent upward
@@ -343,16 +335,16 @@ future.</td>
 <td align="center">Long</td>
 <td align="center"><a href="">Link</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="center">4</td>
-<td align="left">The strategy involves buying high-momentum stocks that
-are in an upward trend and employs trailing stops to secure
-profits.</td>
+<td align="left">The strategy involves buying high-momentum stocks with
+the strongest momentum during bull market, and employs various exit
+algorithms to secure profits.</td>
 <td align="center">Trend-following</td>
 <td align="center">Long</td>
 <td align="center"><a href="">Link</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="center">5</td>
 <td align="left">The strategy aims to identify stocks that are in an
 uptrend but exhibit low volatility, with the belief that these stocks
@@ -362,34 +354,33 @@ appreciation.</td>
 <td align="center">Long</td>
 <td align="center"><a href="">Link</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="center">6</td>
 <td align="left">The strategy is designed to seize the majority of
 pullbacks within an uptrend when the stocks become oversold, based on
-the percentage drop.</td>
+pullback sizes.</td>
+<td align="center">Mean-reversion</td>
+<td align="center">Long</td>
+<td align="center"><a href="">Link</a></td>
+</tr>
+<tr class="odd">
+<td align="center">7</td>
+<td align="left">The strategy, while also aiming at profit from
+pullbacks within an uptrend, employs a more complex process based on
+technical indicators to select stocks.</td>
 <td align="center">Mean-reversion</td>
 <td align="center">Long</td>
 <td align="center"><a href="">Link</a></td>
 </tr>
 <tr class="even">
-<td align="center">7</td>
-<td align="left">The strategy, while also tailored to profit from
-pullbacks within an uptrend, employs a selection process that relies on
-advanced technical indicators like RSI and ADX.</td>
-<td align="center">Mean-reversion</td>
-<td align="center">Long</td>
-<td align="center"><a href="">Link</a></td>
-</tr>
-<tr class="odd">
 <td align="center">8</td>
-<td align="left">The strategy involves short-selling stocks using RSI
-and a set of additional technical indicators as a hedge when the overall
-market is in a downtrend.</td>
+<td align="left">The strategy involves short-selling stocks using RSI as
+a hedge when the overall market is in a downtrend.</td>
 <td align="center">Mean-reversion</td>
 <td align="center">Short</td>
 <td align="center"><a href="">Link</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="center">9</td>
 <td align="left">The strategy aims to identify stocks that have
 experienced a significant recent surge in price, anticipating a high
@@ -397,15 +388,6 @@ probability of correction and a return to their mean or average
 value.</td>
 <td align="center">Mean-reversion</td>
 <td align="center">Short</td>
-<td align="center"><a href="">Link</a></td>
-</tr>
-<tr class="odd">
-<td align="center">10</td>
-<td align="left">The strategy seeks out stocks with positive news
-catalysts and aims to capitalize on their intraday price growth within
-the same trading session.</td>
-<td align="center">Day trading</td>
-<td align="center">Long</td>
 <td align="center"><a href="">Link</a></td>
 </tr>
 </tbody>
