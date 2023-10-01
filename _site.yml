@@ -8,7 +8,9 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Project Algo2"
-      href: algo2.html      
+      href: algo2.html  
+    - text: "Photography"
+      href: https://jlshen2011.wixsite.com/photography        
 #    - text: "Education"
 #      href: https://github.com/jlshen2011/ds-ml-reference          
 output:
