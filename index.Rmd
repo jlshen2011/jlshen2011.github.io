@@ -11,12 +11,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 &nbsp;
 
-Greetings! I'm a software engineer working on end-to-end video recommendation solutions at Facebook. I am one of the first few ranking engineers within the team and having witnessed the product growing from the first [Reels](https://about.fb.com/news/2021/09/launching-reels-on-facebook-us/) launch to nowadays the [Unified Video Player](https://about.fb.com/news/2024/04/exploring-videos-on-facebook-just-got-easier/). I have led various 0-to-1 initiatives, for example: 
+Greetings! I'm a machine learning engineer at Meta working on video recommendations in our home app. I am one of team's first few ranking engineers, having been leading various 0-1 initiatives: 
 
-* Reels early-stage ranking as a lightweight ranking layer that bridges retrieval and ranking that have contributed to double-digits Reels watch time increase since its inception.
-* Contextual video chaining that delivers a real-time responsive chaining experience with recommendations highly customized based on the entry point surface and the seed video ([demo](https://www.facebook.com/reel/24663978383201228)).
+* Reels early-stage ranking as a lightweight ranking layer that bridges retrieval and ranking that have contributed to double-digits Reels time spent increase since its inception;
+* Contextual video chaining that delivers a real-time responsive chaining experience with recommendations highly customized based on the entry point surface and the seed video;
+* First position ranking that provides a highly customized and relevant landing experience with ultra-low latency;
 
-Prior to Meta, I led the modeling team within Walmart's Customer org to build customer-centric data science and machine learning solutions to growing Walmart's customer lifetime value and the share of wallet. I was also one of the founding data scientists for Walmart's membership program, [Walmart+](https://corporate.walmart.com/news/2020/09/01/walmart-introduces-walmart), and built ML models on Walmart+ customer acquisition, conversion, retention, reactivation, and lifetime value for informed marketing decisions. Earlier on, I worked as quantitative researchers at financial institutions such as Deutsche Bank, Goldman Sachs, J.P. Morgan.
+to support the rapid video product growth ([Launching Reels on Facebook in the US](https://about.fb.com/news/2021/09/launching-reels-on-facebook-us/), [Exploring Videos on Facebook Just Got Easier](https://about.fb.com/news/2024/04/exploring-videos-on-facebook-just-got-easier/))
+
+
+Prior to Meta, I led a modeling team within Walmart's Customer org to build customer-centric data science and machine learning solutions to growing Walmart's customer lifetime value and the share of wallet. I was also one of the founding data scientists for Walmart's membership program, [Walmart+](https://corporate.walmart.com/news/2020/09/01/walmart-introduces-walmart), and built ML models on Walmart+ customer acquisition, conversion, retention, reactivation, and lifetime value for informed marketing decisions. Earlier on, I worked as quantitative researchers at financial institutions such as Deutsche Bank, Goldman Sachs, J.P. Morgan.
 
 I received PhD in Statistics from [Department of Statistics](https://statistics.rutgers.edu/) at [Rutgers University, New Brunswick](https://newbrunswick.rutgers.edu/), advised by Professor [Minge Xie](http://www.stat.rutgers.edu/home/mxie/) and Professor [Regina Y. Liu](http://www.stat.rutgers.edu/joomlatools-files/docman-files/Liu-CV-05-2015.pdf), and BSc in Statistics from [University of Science and Technology of China](https://www.ustc.edu.cn/).
 
@@ -33,12 +37,12 @@ I received PhD in Statistics from [Department of Statistics](https://statistics.
 
 ## Experiences
 
-**Staff Software Engineer, Machine Learning** at Meta, Apr 2021 to present.
+**Staff Machine Learning Engineer** at Meta, Apr 2021 to present.
 
-**Senior Manager, Data Science** at Walmart, Jan 2020 to Apr 2021.
+**Senior Data Science Manager** at Walmart, Jan 2020 to Apr 2021.
 
-**Associate, Fixed Income Strategic Analytics** at Deutsche Bank, Dec 2018 to Dec 2019.
+**Fixed Income Strats** at Deutsche Bank, Dec 2018 to Dec 2019.
 
-**Associate, Quantitative Research** at Goldman Sachs, Jun 2017 to Dec 2018.
+**Quantitative Researcher** at Goldman Sachs, Jun 2017 to Dec 2018.
 
 &nbsp;
